@@ -1,0 +1,9214 @@
+[
+{
+	"first": null,
+	"second": null,
+	"result": "Water",
+	"emoji": "💧",
+	"isNew": false
+},
+{
+	"first": null,
+	"second": null,
+	"result": "Fire",
+	"emoji": "🔥",
+	"isNew": false
+},
+{
+	"first": null,
+	"second": null,
+	"result": "Wind",
+	"emoji": "🌬️",
+	"isNew": false
+},
+{
+	"first": null,
+	"second": null,
+	"result": "Earth",
+	"emoji": "🌍",
+	"isNew": false
+},
+{
+    "result": "Lake",
+    "emoji": "\ud83c\udf0a",
+    "isNew": false,
+    "first": "Water",
+    "second": "Water"
+},
+{
+    "result": "Lake",
+    "emoji": "\ud83c\udf0a",
+    "isNew": false,
+    "first": "Water",
+    "second": "Water"
+},
+{
+    "result": "Steam",
+    "emoji": "\ud83d\udca8",
+    "isNew": false,
+    "first": "Water",
+    "second": "Fire"
+},
+{
+    "result": "Cloud",
+    "emoji": "\u2601\ufe0f",
+    "isNew": false,
+    "first": "Steam",
+    "second": "Lake"
+},
+{
+    "result": "Wave",
+    "emoji": "\ud83c\udf0a",
+    "isNew": false,
+    "first": "Water",
+    "second": "Wind"
+},
+{
+    "result": "Smoke",
+    "emoji": "\ud83d\udca8",
+    "isNew": false,
+    "first": "Wind",
+    "second": "Fire"
+},
+{
+    "result": "Steam",
+    "emoji": "\ud83d\udca8",
+    "isNew": false,
+    "first": "Water",
+    "second": "Fire"
+},
+{
+    "result": "Mud",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Steam",
+    "second": "Earth"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Earth",
+    "second": "Fire"
+},
+{
+    "result": "Tsunami",
+    "emoji": "\ud83c\udf0a",
+    "isNew": false,
+    "first": "Water",
+    "second": "Wave"
+},
+{
+    "result": "Lake",
+    "emoji": "\ud83c\udf0a",
+    "isNew": false,
+    "first": "Water",
+    "second": "Water"
+},
+{
+    "result": "Fog",
+    "emoji": "\ud83c\udf2b\ufe0f",
+    "isNew": false,
+    "first": "Smoke",
+    "second": "Lake"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Lake"
+},
+{
+    "result": "Mist",
+    "emoji": "\ud83c\udf2b\ufe0f",
+    "isNew": false,
+    "first": "Fog",
+    "second": "Lake"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Lake",
+    "second": "Mud"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Fog",
+    "second": "Mud"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Cloud",
+    "second": "Lava"
+},
+{
+    "result": "Dragon",
+    "emoji": "\ud83d\udc09",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Steam"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Wind",
+    "second": "Volcano"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Fire",
+    "second": "Smoke"
+},
+{
+    "result": "Loch Ness Monster",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Dragon",
+    "second": "Lake"
+},
+{
+    "result": "Cloud",
+    "emoji": "\u2601\ufe0f",
+    "isNew": false,
+    "first": "Steam",
+    "second": "Lake"
+},
+{
+    "result": "Cloud",
+    "emoji": "\u2601\ufe0f",
+    "isNew": false,
+    "first": "Steam",
+    "second": "Lake"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Wave"
+},
+{
+    "result": "Fire",
+    "emoji": "\ud83d\udd25",
+    "isNew": false,
+    "first": "Smoke",
+    "second": "Dragon"
+},
+{
+    "result": "Storm",
+    "emoji": "\u26c8\ufe0f",
+    "isNew": false,
+    "first": "Wind",
+    "second": "Cloud"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Fog",
+    "second": "Mud"
+},
+{
+    "result": "Smoke",
+    "emoji": "\ud83d\udca8",
+    "isNew": false,
+    "first": "Mist",
+    "second": "Fire"
+},
+{
+    "result": "Cloud",
+    "emoji": "\u2601\ufe0f",
+    "isNew": false,
+    "first": "Mist",
+    "second": "Steam"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Cloud"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Smoke",
+    "second": "Lava"
+},
+{
+    "result": "Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "isNew": false,
+    "first": "Cloud",
+    "second": "Volcano"
+},
+{
+    "result": "Marsh",
+    "emoji": "\ud83c\udf3f",
+    "isNew": false,
+    "first": "Lake",
+    "second": "Swamp"
+},
+{
+    "result": "Storm",
+    "emoji": "\u26c8\ufe0f",
+    "isNew": false,
+    "first": "Wind",
+    "second": "Lake"
+},
+{
+    "result": "Mud",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Earth",
+    "second": "Swamp"
+},
+{
+    "result": "Dragon",
+    "emoji": "\ud83d\udc09",
+    "isNew": false,
+    "first": "Fire",
+    "second": "Swamp"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Smoke",
+    "second": "Tsunami"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Earth",
+    "second": "Lake"
+},
+{
+    "result": "Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "isNew": false,
+    "first": "Lake",
+    "second": "Cloud"
+},
+{
+    "result": "Mudslide",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Tsunami"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Smoke"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Cloud",
+    "second": "Eruption"
+},
+{
+    "result": "Smoke",
+    "emoji": "\ud83d\udca8",
+    "isNew": false,
+    "first": "Fire",
+    "second": "Fog"
+},
+{
+    "result": "Fog",
+    "emoji": "\ud83c\udf2b\ufe0f",
+    "isNew": false,
+    "first": "Tsunami",
+    "second": "Mist"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Mudslide",
+    "second": "Dragon"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Storm",
+    "second": "Fire"
+},
+{
+    "result": "Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Cloud"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lake",
+    "second": "Eruption"
+},
+{
+    "result": "Storm",
+    "emoji": "\u26c8\ufe0f",
+    "isNew": false,
+    "first": "Wind",
+    "second": "Lake"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Swamp"
+},
+{
+    "result": "Lizard",
+    "emoji": "\ud83e\udd8e",
+    "isNew": false,
+    "first": "Dragon",
+    "second": "Swamp"
+},
+{
+    "result": "Mudslide",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Tsunami"
+},
+{
+    "result": "Cloud",
+    "emoji": "\u2601\ufe0f",
+    "isNew": false,
+    "first": "Mist",
+    "second": "Steam"
+},
+{
+    "result": "Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "isNew": false,
+    "first": "Cloud",
+    "second": "Volcano"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Wind"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Rain"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Smoke",
+    "second": "Volcano"
+},
+{
+    "result": "Mist",
+    "emoji": "\ud83c\udf2b\ufe0f",
+    "isNew": false,
+    "first": "Marsh",
+    "second": "Smoke"
+},
+{
+    "result": "Cloud",
+    "emoji": "\u2601\ufe0f",
+    "isNew": false,
+    "first": "Wind",
+    "second": "Smoke"
+},
+{
+    "result": "Mountain",
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Volcano"
+},
+{
+    "result": "Quagmire",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Swamp"
+},
+{
+    "result": "Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "isNew": false,
+    "first": "Cloud",
+    "second": "Cloud"
+},
+{
+    "result": "Island",
+    "emoji": "\ud83c\udfdd\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Lake"
+},
+{
+    "result": "Dragon",
+    "emoji": "\ud83d\udc09",
+    "isNew": false,
+    "first": "Cloud",
+    "second": "Lizard"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Quagmire",
+    "second": "Fog"
+},
+{
+    "result": "Cloud",
+    "emoji": "\u2601\ufe0f",
+    "isNew": false,
+    "first": "Steam",
+    "second": "Fog"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Marsh",
+    "second": "Volcano"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Mountain"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Fire",
+    "second": "Volcano"
+},
+{
+    "result": "Storm",
+    "emoji": "\u26c8\ufe0f",
+    "isNew": false,
+    "first": "Wind",
+    "second": "Cloud"
+},
+{
+    "result": "Lizard",
+    "emoji": "\ud83e\udd8e",
+    "isNew": false,
+    "first": "Dragon",
+    "second": "Swamp"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Loch Ness Monster"
+},
+{
+    "result": "Dinosaur",
+    "emoji": "\ud83e\udd96",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Lizard"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Wind"
+},
+{
+    "result": "Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "isNew": false,
+    "first": "Cloud",
+    "second": "Water"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Storm"
+},
+{
+    "result": "Storm",
+    "emoji": "\u26c8\ufe0f",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Wind"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Fire"
+},
+{
+    "result": "Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "isNew": false,
+    "first": "Cloud",
+    "second": "Volcano"
+},
+{
+    "result": "Fog",
+    "emoji": "\ud83c\udf2b\ufe0f",
+    "isNew": false,
+    "first": "Mist",
+    "second": "Wave"
+},
+{
+    "result": "Cloud",
+    "emoji": "\u2601\ufe0f",
+    "isNew": false,
+    "first": "Mist",
+    "second": "Volcano"
+},
+{
+    "result": "Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "isNew": false,
+    "first": "Storm",
+    "second": "Cloud"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Cloud",
+    "second": "Lava"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Rain"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Volcano"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Lava"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Cloud"
+},
+{
+    "result": "Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "isNew": false,
+    "first": "Cloud",
+    "second": "Volcano"
+},
+{
+    "result": "Mud",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Eruption"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Unicorn",
+    "second": "Cloud"
+},
+{
+    "result": "Marsh",
+    "emoji": "\ud83c\udf3f",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Swamp"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Mountain",
+    "second": "Swamp"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Mudslide",
+    "second": "Volcano"
+},
+{
+    "result": "Cloud",
+    "emoji": "\u2601\ufe0f",
+    "isNew": false,
+    "first": "Mist",
+    "second": "Volcano"
+},
+{
+    "result": "Marsh",
+    "emoji": "\ud83c\udf3f",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Swamp"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Marsh",
+    "second": "Eruption"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Eruption"
+},
+{
+    "result": "Mountain",
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Volcano"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Swamp"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Quagmire",
+    "second": "Volcano"
+},
+{
+    "result": "Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "isNew": false,
+    "first": "Cloud",
+    "second": "Fog"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Unicorn",
+    "second": "Storm"
+},
+{
+    "result": "Ocean",
+    "emoji": "\ud83c\udf0a",
+    "isNew": false,
+    "first": "Lake",
+    "second": "Rain"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Mudslide",
+    "second": "Volcano"
+},
+{
+    "result": "Marsh",
+    "emoji": "\ud83c\udf3f",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Swamp"
+},
+{
+    "result": "Tornado",
+    "emoji": "\ud83c\udf2a\ufe0f",
+    "isNew": false,
+    "first": "Storm",
+    "second": "Storm"
+},
+{
+    "result": "Cloud",
+    "emoji": "\u2601\ufe0f",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Smoke"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Dragon",
+    "second": "Lava"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Fire"
+},
+{
+    "result": "Fog",
+    "emoji": "\ud83c\udf2b\ufe0f",
+    "isNew": false,
+    "first": "Cloud",
+    "second": "Swamp"
+},
+{
+    "result": "Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "isNew": false,
+    "first": "Cloud",
+    "second": "Rainbow"
+},
+{
+    "result": "Fog",
+    "emoji": "\ud83c\udf2b\ufe0f",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Cloud"
+},
+{
+    "result": "Mud",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Rain"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Cloud"
+},
+{
+    "result": "Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "isNew": false,
+    "first": "Storm",
+    "second": "Cloud"
+},
+{
+    "result": "Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "isNew": false,
+    "first": "Cloud",
+    "second": "Volcano"
+},
+{
+    "result": "Stone",
+    "emoji": "\ud83e\udea8",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Lava"
+},
+{
+    "result": "Mudslide",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Storm",
+    "second": "Mud"
+},
+{
+    "result": "Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "isNew": false,
+    "first": "Mudslide",
+    "second": "Cloud"
+},
+{
+    "result": "Flood",
+    "emoji": "\ud83c\udf0a",
+    "isNew": false,
+    "first": "Storm",
+    "second": "Rain"
+},
+{
+    "result": "Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Cloud"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Fire",
+    "second": "Volcano"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Island"
+},
+{
+    "result": "Mountain",
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Volcano"
+},
+{
+    "result": "Fossil",
+    "emoji": "\ud83e\uddb4",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Dinosaur"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Tornado",
+    "second": "Volcano"
+},
+{
+    "result": "Stone",
+    "emoji": "\ud83e\udea8",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Lava"
+},
+{
+    "result": "Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Storm"
+},
+{
+    "result": "Ocean",
+    "emoji": "\ud83c\udf0a",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Wave"
+},
+{
+    "result": "Marsh",
+    "emoji": "\ud83c\udf3f",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Lake"
+},
+{
+    "result": "Clay",
+    "emoji": "\ud83c\udffa",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Earth"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Island",
+    "second": "Mud"
+},
+{
+    "result": "Pegasus",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Unicorn",
+    "second": "Mountain"
+},
+{
+    "result": "Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "isNew": false,
+    "first": "Cloud",
+    "second": "Volcano"
+},
+{
+    "result": "Mountain",
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Volcano"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Marsh",
+    "second": "Lava"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Marsh"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Eruption"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Marsh",
+    "second": "Storm"
+},
+{
+    "result": "Storm",
+    "emoji": "\u26c8\ufe0f",
+    "isNew": false,
+    "first": "Dragon",
+    "second": "Cloud"
+},
+{
+    "result": "Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "isNew": false,
+    "first": "Cloud",
+    "second": "Ocean"
+},
+{
+    "result": "Statue",
+    "emoji": "\ud83d\uddfd",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Stone"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Marsh",
+    "second": "Marsh"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Stone",
+    "second": "Volcano"
+},
+{
+    "result": "Marsh",
+    "emoji": "\ud83c\udf3f",
+    "isNew": false,
+    "first": "Ocean",
+    "second": "Swamp"
+},
+{
+    "result": "Mist",
+    "emoji": "\ud83c\udf2b\ufe0f",
+    "isNew": false,
+    "first": "Fog",
+    "second": "Tsunami"
+},
+{
+    "result": "Engine",
+    "emoji": "\ud83d\ude97",
+    "isNew": false,
+    "first": "Fire",
+    "second": "Steam"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Dragon"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Swamp"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Cloud"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Cloud",
+    "second": "Lava"
+},
+{
+    "result": "Mud",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Volcano"
+},
+{
+    "result": "Marsh",
+    "emoji": "\ud83c\udf3f",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Swamp"
+},
+{
+    "result": "Clay",
+    "emoji": "\ud83c\udffa",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Mud"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Loch Ness Monster",
+    "second": "Mud"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Fog"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Earth",
+    "second": "Volcano"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Stone"
+},
+{
+    "result": "Mountain",
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Volcano"
+},
+{
+    "result": "Stone",
+    "emoji": "\ud83e\udea8",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Mist"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Mountain",
+    "second": "Pegasus"
+},
+{
+    "result": "Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "isNew": false,
+    "first": "Mist",
+    "second": "Cloud"
+},
+{
+    "result": "Mountain",
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Volcano"
+},
+{
+    "result": "Stone",
+    "emoji": "\ud83e\udea8",
+    "isNew": false,
+    "first": "Water",
+    "second": "Lava"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Rain"
+},
+{
+    "result": "Clay",
+    "emoji": "\ud83c\udffa",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Lava"
+},
+{
+    "result": "Bog",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Swamp"
+},
+{
+    "result": "Tsunami",
+    "emoji": "\ud83c\udf0a",
+    "isNew": false,
+    "first": "Wave",
+    "second": "Swamp"
+},
+{
+    "result": "Ceramic",
+    "emoji": "\ud83c\udffa",
+    "isNew": false,
+    "first": "Clay",
+    "second": "Volcano"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Fog",
+    "second": "Volcano"
+},
+{
+    "result": "Cloud",
+    "emoji": "\u2601\ufe0f",
+    "isNew": false,
+    "first": "Fog",
+    "second": "Rain"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Loch Ness Monster",
+    "second": "Lava"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Lava"
+},
+{
+    "result": "Mud",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Rain"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Pegasus",
+    "second": "Rain"
+},
+{
+    "result": "Stone",
+    "emoji": "\ud83e\udea8",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Wave"
+},
+{
+    "result": "Flood",
+    "emoji": "\ud83c\udf0a",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Storm"
+},
+{
+    "result": "Flood",
+    "emoji": "\ud83c\udf0a",
+    "isNew": false,
+    "first": "Tsunami",
+    "second": "Rain"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Marsh",
+    "second": "Volcano"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Rain"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Flood"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Marsh",
+    "second": "Eruption"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Stone",
+    "second": "Fire"
+},
+{
+    "result": "Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "isNew": false,
+    "first": "Cloud",
+    "second": "Fog"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Marsh"
+},
+{
+    "result": "Mud",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Volcano"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Rainbow"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Swamp"
+},
+{
+    "result": "Fog",
+    "emoji": "\ud83c\udf2b\ufe0f",
+    "isNew": false,
+    "first": "Lake",
+    "second": "Smoke"
+},
+{
+    "result": "Mud",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Swamp"
+},
+{
+    "result": "Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "isNew": false,
+    "first": "Cloud",
+    "second": "Fog"
+},
+{
+    "result": "Steam",
+    "emoji": "\ud83d\udca8",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Engine"
+},
+{
+    "result": "Thunder",
+    "emoji": "\u26c8\ufe0f",
+    "isNew": false,
+    "first": "Smoke",
+    "second": "Storm"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Rain"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Mountain"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Lava"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Lava"
+},
+{
+    "result": "Bog",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Storm",
+    "second": "Swamp"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Lava"
+},
+{
+    "result": "Stone",
+    "emoji": "\ud83e\udea8",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Lava"
+},
+{
+    "result": "Dragon",
+    "emoji": "\ud83d\udc09",
+    "isNew": false,
+    "first": "Fog",
+    "second": "Lizard"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Marsh"
+},
+{
+    "result": "Tsunami",
+    "emoji": "\ud83c\udf0a",
+    "isNew": false,
+    "first": "Flood",
+    "second": "Eruption"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Rainbow"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Marsh"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Marsh"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Marsh"
+},
+{
+    "result": "Pegasus",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Unicorn"
+},
+{
+    "result": "Mud",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Swamp"
+},
+{
+    "result": "Pegasus",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Unicorn",
+    "second": "Volcano"
+},
+{
+    "result": "Beach",
+    "emoji": "\ud83c\udfd6\ufe0f",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Wave"
+},
+{
+    "result": "Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "isNew": false,
+    "first": "Cloud",
+    "second": "Volcano"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Bog"
+},
+{
+    "result": "Poseidon",
+    "emoji": "\ud83c\udf0a",
+    "isNew": false,
+    "first": "Ocean",
+    "second": "Statue"
+},
+{
+    "result": "Fog",
+    "emoji": "\ud83c\udf2b\ufe0f",
+    "isNew": false,
+    "first": "Storm",
+    "second": "Mist"
+},
+{
+    "result": "Mud",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Rain"
+},
+{
+    "result": "Dragon",
+    "emoji": "\ud83d\udc09",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Smoke"
+},
+{
+    "result": "Plant",
+    "emoji": "\ud83c\udf31",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Earth"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Pegasus",
+    "second": "Swamp"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Dragon"
+},
+{
+    "result": "Dragon",
+    "emoji": "\ud83d\udc09",
+    "isNew": false,
+    "first": "Steam",
+    "second": "Swamp"
+},
+{
+    "result": "Phoenix",
+    "emoji": "\ud83d\udd25",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Pegasus"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Marsh",
+    "second": "Volcano"
+},
+{
+    "result": "Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "isNew": false,
+    "first": "Stone",
+    "second": "Cloud"
+},
+{
+    "result": "Mudslide",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Storm",
+    "second": "Mud"
+},
+{
+    "result": "Stone",
+    "emoji": "\ud83e\udea8",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Mist"
+},
+{
+    "result": "Pegasus",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Unicorn"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Swamp"
+},
+{
+    "result": "Clay",
+    "emoji": "\ud83c\udffa",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Lava"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Unicorn",
+    "second": "Rain"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Pegasus"
+},
+{
+    "result": "Lightning",
+    "emoji": "\u26a1\ufe0f",
+    "isNew": false,
+    "first": "Thunder",
+    "second": "Volcano"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Steam",
+    "second": "Quagmire"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Steam",
+    "second": "Lava"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Swamp"
+},
+{
+    "result": "Fire",
+    "emoji": "\ud83d\udd25",
+    "isNew": false,
+    "first": "Wind",
+    "second": "Phoenix"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Steam",
+    "second": "Volcano"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Volcano"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Lava"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Cloud",
+    "second": "Lava"
+},
+{
+    "result": "Mud",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Swamp"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Fog"
+},
+{
+    "result": "Nothing",
+    "emoji": "",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Phoenix"
+},
+{
+    "result": "Mountain",
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Volcano"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Fire",
+    "second": "Rain"
+},
+{
+    "result": "Pottery",
+    "emoji": "\ud83c\udffa",
+    "isNew": false,
+    "first": "Clay",
+    "second": "Nothing"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Clay"
+},
+{
+    "result": "Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "isNew": false,
+    "first": "Cloud",
+    "second": "Storm"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Mist",
+    "second": "Rainbow"
+},
+{
+    "result": "Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "isNew": false,
+    "first": "Cloud",
+    "second": "Cloud"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Swamp"
+},
+{
+    "result": "Stone",
+    "emoji": "\ud83e\udea8",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Rain"
+},
+{
+    "result": "Mountain",
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Volcano"
+},
+{
+    "result": "Quagmire",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Swamp"
+},
+{
+    "result": "Avalanche",
+    "emoji": "\ud83c\udf28\ufe0f",
+    "isNew": false,
+    "first": "Mountain",
+    "second": "Storm"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Pegasus"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Rainbow"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Tsunami",
+    "second": "Rainbow"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Dragon"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Smoke"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Volcano"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Rain"
+},
+{
+    "result": "Tsunami",
+    "emoji": "\ud83c\udf0a",
+    "isNew": false,
+    "first": "Flood",
+    "second": "Storm"
+},
+{
+    "result": "Bog",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Marsh",
+    "second": "Swamp"
+},
+{
+    "result": "Mountain",
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Volcano"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Volcano"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Stone",
+    "second": "Volcano"
+},
+{
+    "result": "Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "isNew": false,
+    "first": "Steam",
+    "second": "Cloud"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Fog"
+},
+{
+    "result": "Mountain",
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Volcano"
+},
+{
+    "result": "Ash",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Phoenix",
+    "second": "Nothing"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Lava"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Marsh"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Lava"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Lava"
+},
+{
+    "result": "Flood",
+    "emoji": "\ud83c\udf0a",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Storm"
+},
+{
+    "result": "Chameleon",
+    "emoji": "\ud83e\udd8e",
+    "isNew": false,
+    "first": "Lizard",
+    "second": "Rainbow"
+},
+{
+    "result": "Pig",
+    "emoji": "\ud83d\udc37",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Rainbow"
+},
+{
+    "result": "Narwhal",
+    "emoji": "\ud83d\udc33",
+    "isNew": false,
+    "first": "Flood",
+    "second": "Unicorn"
+},
+{
+    "result": "Dinosaur",
+    "emoji": "\ud83e\udd96",
+    "isNew": false,
+    "first": "Loch Ness Monster",
+    "second": "Lizard"
+},
+{
+    "result": "Lizard",
+    "emoji": "\ud83e\udd8e",
+    "isNew": false,
+    "first": "Chameleon",
+    "second": "Swamp"
+},
+{
+    "result": "Steampunk",
+    "emoji": "\ud83d\udd6f\ufe0f",
+    "isNew": false,
+    "first": "Dragon",
+    "second": "Steam"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Storm"
+},
+{
+    "result": "Ocean",
+    "emoji": "\ud83c\udf0a",
+    "isNew": false,
+    "first": "Flood",
+    "second": "Lake"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Storm",
+    "second": "Eruption"
+},
+{
+    "result": "Pegasus",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Unicorn",
+    "second": "Volcano"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Eruption"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Rain"
+},
+{
+    "result": "Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "isNew": false,
+    "first": "Fire",
+    "second": "Rainbow"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Swamp"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Dragon"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Smoke"
+},
+{
+    "result": "Nothing",
+    "emoji": "",
+    "isNew": false,
+    "first": "Dragon",
+    "second": "Rainbow"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Dragon",
+    "second": "Mountain"
+},
+{
+    "result": "Island",
+    "emoji": "\ud83c\udfdd\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Lake"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Fire",
+    "second": "Lake"
+},
+{
+    "result": "Marsh",
+    "emoji": "\ud83c\udf3f",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Lake"
+},
+{
+    "result": "Noah",
+    "emoji": "\ud83d\udc18",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Flood"
+},
+{
+    "result": "Mud",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Rain"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Pegasus",
+    "second": "Smoke"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Lava"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Mountain"
+},
+{
+    "result": "Island",
+    "emoji": "\ud83c\udfdd\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Ocean"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Pegasus",
+    "second": "Swamp"
+},
+{
+    "result": "Fog",
+    "emoji": "\ud83c\udf2b\ufe0f",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Mist"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Swamp"
+},
+{
+    "result": "Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "isNew": false,
+    "first": "Cloud",
+    "second": "Rainbow"
+},
+{
+    "result": "Waterfall",
+    "emoji": "\ud83c\udf0a",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Mountain"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Dinosaur",
+    "second": "Mountain"
+},
+{
+    "result": "Bacon",
+    "emoji": "\ud83e\udd53",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Pig"
+},
+{
+    "result": "Mountain",
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Volcano"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Mountain",
+    "second": "Lava"
+},
+{
+    "result": "Pig",
+    "emoji": "\ud83d\udc37",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Mud"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Mountain",
+    "second": "Lava"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Poseidon",
+    "second": "Quagmire"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Narwhal"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Loch Ness Monster",
+    "second": "Rain"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Dragon"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Volcano"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Wave",
+    "second": "Volcano"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Island"
+},
+{
+    "result": "Pegasus",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Unicorn"
+},
+{
+    "result": "Nothing",
+    "emoji": "",
+    "isNew": false,
+    "first": "Nothing",
+    "second": "Unicorn"
+},
+{
+    "result": "Fossil",
+    "emoji": "\ud83e\uddb4",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Dinosaur"
+},
+{
+    "result": "Mountain",
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Volcano"
+},
+{
+    "result": "Pegasus",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Unicorn",
+    "second": "Volcano"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Cloud"
+},
+{
+    "result": "Cloud",
+    "emoji": "\u2601\ufe0f",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Smoke"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Stone",
+    "second": "Volcano"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Fog"
+},
+{
+    "result": "Storm",
+    "emoji": "\u26c8\ufe0f",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Thunder"
+},
+{
+    "result": "Marsh",
+    "emoji": "\ud83c\udf3f",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Rainbow"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Smoke"
+},
+{
+    "result": "Swampasaurus",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Dinosaur"
+},
+{
+    "result": "Cloud",
+    "emoji": "\u2601\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Mist"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Unicorn",
+    "second": "Unicorn"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Mountain",
+    "second": "Marsh"
+},
+{
+    "result": "Cloud",
+    "emoji": "\u2601\ufe0f",
+    "isNew": false,
+    "first": "Fog",
+    "second": "Mountain"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Bog",
+    "second": "Rain"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Swamp"
+},
+{
+    "result": "Cloud",
+    "emoji": "\u2601\ufe0f",
+    "isNew": false,
+    "first": "Mist",
+    "second": "Volcano"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Plant"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Eruption"
+},
+{
+    "result": "Steampunk Pirate",
+    "emoji": "\ud83c\udff4\u200d\u2620\ufe0f",
+    "isNew": false,
+    "first": "Ocean",
+    "second": "Steampunk"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Fog"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Steam"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Mountain"
+},
+{
+    "result": "Steampunk Pirate",
+    "emoji": "\ud83c\udff4\u200d\u2620\ufe0f",
+    "isNew": false,
+    "first": "Steampunk Pirate",
+    "second": "Swamp"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Lava"
+},
+{
+    "result": "Mountain",
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Volcano"
+},
+{
+    "result": "Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "isNew": false,
+    "first": "Flood",
+    "second": "Cloud"
+},
+{
+    "result": "Flood",
+    "emoji": "\ud83c\udf0a",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Tsunami"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Fog",
+    "second": "Lava"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Marsh",
+    "second": "Dinosaur"
+},
+{
+    "result": "Island",
+    "emoji": "\ud83c\udfdd\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Ocean"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Mountain",
+    "second": "Volcano"
+},
+{
+    "result": "Bog",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Quagmire",
+    "second": "Swamp"
+},
+{
+    "result": "Double Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Unicorn",
+    "second": "Rainbow"
+},
+{
+    "result": "Mud",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Swamp"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Swamp"
+},
+{
+    "result": "Dragon",
+    "emoji": "\ud83d\udc09",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Smoke"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Nothing",
+    "second": "Volcano"
+},
+{
+    "result": "Ark",
+    "emoji": "\ud83d\udc18",
+    "isNew": false,
+    "first": "Mist",
+    "second": "Noah"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Marsh"
+},
+{
+    "result": "Surf",
+    "emoji": "\ud83c\udfc4",
+    "isNew": false,
+    "first": "Wave",
+    "second": "Rainbow"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Mountain",
+    "second": "Pegasus"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Steam",
+    "second": "Quagmire"
+},
+{
+    "result": "Cloud",
+    "emoji": "\u2601\ufe0f",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Fog"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Clay",
+    "second": "Eruption"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Rainbow"
+},
+{
+    "result": "Island",
+    "emoji": "\ud83c\udfdd\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Lake"
+},
+{
+    "result": "Marsh",
+    "emoji": "\ud83c\udf3f",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Lake"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Rainbow"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Unicorn",
+    "second": "Tornado"
+},
+{
+    "result": "Mud",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Pig",
+    "second": "Swamp"
+},
+{
+    "result": "Mud",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Rain"
+},
+{
+    "result": "Lightning",
+    "emoji": "\u26a1\ufe0f",
+    "isNew": false,
+    "first": "Storm",
+    "second": "Pegasus"
+},
+{
+    "result": "Firebird",
+    "emoji": "\ud83d\udc26",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Phoenix"
+},
+{
+    "result": "Pig",
+    "emoji": "\ud83d\udc37",
+    "isNew": false,
+    "first": "Bacon",
+    "second": "Swamp"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Marsh",
+    "second": "Marsh"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Ceramic"
+},
+{
+    "result": "Statue",
+    "emoji": "\ud83d\uddfd",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Stone"
+},
+{
+    "result": "Clay",
+    "emoji": "\ud83c\udffa",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Waterfall"
+},
+{
+    "result": "Mud",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Rain"
+},
+{
+    "result": "Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "isNew": false,
+    "first": "Ceramic",
+    "second": "Cloud"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Mountain"
+},
+{
+    "result": "Stone",
+    "emoji": "\ud83e\udea8",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Lava"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Volcano"
+},
+{
+    "result": "Clay",
+    "emoji": "\ud83c\udffa",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Mud"
+},
+{
+    "result": "Bacon",
+    "emoji": "\ud83e\udd53",
+    "isNew": false,
+    "first": "Pig",
+    "second": "Tsunami"
+},
+{
+    "result": "Flood",
+    "emoji": "\ud83c\udf0a",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Storm"
+},
+{
+    "result": "Brick",
+    "emoji": "\ud83e\uddf1",
+    "isNew": false,
+    "first": "Fire",
+    "second": "Mud"
+},
+{
+    "result": "Dinosaur",
+    "emoji": "\ud83e\udd96",
+    "isNew": false,
+    "first": "Fossil",
+    "second": "Volcano"
+},
+{
+    "result": "Tsunami",
+    "emoji": "\ud83c\udf0a",
+    "isNew": false,
+    "first": "Storm",
+    "second": "Ocean"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Dragon",
+    "second": "Volcano"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Unicorn",
+    "second": "Rain"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Mountain",
+    "second": "Swamp"
+},
+{
+    "result": "Mud",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Clay",
+    "second": "Rain"
+},
+{
+    "result": "Atlantis",
+    "emoji": "\ud83c\udf0a",
+    "isNew": false,
+    "first": "Island",
+    "second": "Unicorn"
+},
+{
+    "result": "Dinosaur",
+    "emoji": "\ud83e\udd96",
+    "isNew": false,
+    "first": "Lizard",
+    "second": "Loch Ness Monster"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Cloud"
+},
+{
+    "result": "Stone",
+    "emoji": "\ud83e\udea8",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Lava"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Rainbow"
+},
+{
+    "result": "Clay",
+    "emoji": "\ud83c\udffa",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Rain"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Fog"
+},
+{
+    "result": "Quagmire",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Swamp"
+},
+{
+    "result": "Mud",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Volcano"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Smoke",
+    "second": "Mud"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Mudslide"
+},
+{
+    "result": "Obsidian",
+    "emoji": "\ud83d\udd2a",
+    "isNew": false,
+    "first": "Stone",
+    "second": "Lava"
+},
+{
+    "result": "Phoenix",
+    "emoji": "\ud83d\udd25",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Firebird"
+},
+{
+    "result": "Steampunk Pirate",
+    "emoji": "\ud83c\udff4\u200d\u2620\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Steampunk Pirate"
+},
+{
+    "result": "Mud",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Rain"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Volcano"
+},
+{
+    "result": "Mountain",
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Volcano"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Fire",
+    "second": "Lava"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Volcano"
+},
+{
+    "result": "Baconator",
+    "emoji": "\ud83c\udf54",
+    "isNew": false,
+    "first": "Thunder",
+    "second": "Bacon"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Bog",
+    "second": "Dinosaur"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Volcano"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Mudslide",
+    "second": "Volcano"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Nothing"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Lava"
+},
+{
+    "result": "Statue",
+    "emoji": "\ud83d\uddfd",
+    "isNew": false,
+    "first": "Clay",
+    "second": "Stone"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Fog",
+    "second": "Eruption"
+},
+{
+    "result": "Nothing",
+    "emoji": "",
+    "isNew": false,
+    "first": "Steampunk",
+    "second": "Island"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Stone"
+},
+{
+    "result": "Meteor",
+    "emoji": "\ud83d\udcab",
+    "isNew": false,
+    "first": "Storm",
+    "second": "Stone"
+},
+{
+    "result": "Mud",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Rain"
+},
+{
+    "result": "Pig",
+    "emoji": "\ud83d\udc37",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Rainbow"
+},
+{
+    "result": "Mountain",
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Volcano"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Fog"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Swamp"
+},
+{
+    "result": "Candy",
+    "emoji": "\ud83c\udf6c",
+    "isNew": false,
+    "first": "Plant",
+    "second": "Unicorn"
+},
+{
+    "result": "Steam",
+    "emoji": "\ud83d\udca8",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Steampunk"
+},
+{
+    "result": "Mountain",
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Volcano"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Volcano"
+},
+{
+    "result": "Phoenix",
+    "emoji": "\ud83d\udd25",
+    "isNew": false,
+    "first": "Pegasus",
+    "second": "Volcano"
+},
+{
+    "result": "Bog",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Swamp"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Rain"
+},
+{
+    "result": "Steampunk Dinosaur",
+    "emoji": "\ud83e\udd96",
+    "isNew": false,
+    "first": "Steampunk Pirate",
+    "second": "Fossil"
+},
+{
+    "result": "Mountain",
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Volcano"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Bog",
+    "second": "Volcano"
+},
+{
+    "result": "Mud",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Rain"
+},
+{
+    "result": "Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "isNew": false,
+    "first": "Steam",
+    "second": "Cloud"
+},
+{
+    "result": "Pegasus",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Unicorn"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Swamp"
+},
+{
+    "result": "Steampunk Pirate",
+    "emoji": "\ud83c\udff4\u200d\u2620\ufe0f",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Steampunk Pirate"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Pegasus",
+    "second": "Rainbow"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Stone",
+    "second": "Volcano"
+},
+{
+    "result": "Steampunk",
+    "emoji": "\ud83d\udd6f\ufe0f",
+    "isNew": false,
+    "first": "Meteor",
+    "second": "Steampunk"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Dinosaur"
+},
+{
+    "result": "Piggyback",
+    "emoji": "\ud83d\udc16",
+    "isNew": false,
+    "first": "Ocean",
+    "second": "Pig"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Marsh"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Fog"
+},
+{
+    "result": "Clay",
+    "emoji": "\ud83c\udffa",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Mud"
+},
+{
+    "result": "Snow",
+    "emoji": "\u2744\ufe0f",
+    "isNew": false,
+    "first": "Cloud",
+    "second": "Mountain"
+},
+{
+    "result": "Sphinx",
+    "emoji": "\ud83d\udc2b",
+    "isNew": false,
+    "first": "Mountain",
+    "second": "Statue"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Marsh"
+},
+{
+    "result": "Statue",
+    "emoji": "\ud83d\uddfd",
+    "isNew": false,
+    "first": "Mist",
+    "second": "Stone"
+},
+{
+    "result": "Baconator",
+    "emoji": "\ud83c\udf54",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Baconator"
+},
+{
+    "result": "Ceramic",
+    "emoji": "\ud83c\udffa",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Clay"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Water"
+},
+{
+    "result": "Flower",
+    "emoji": "\ud83c\udf38",
+    "isNew": false,
+    "first": "Plant",
+    "second": "Rain"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Cloud",
+    "second": "Lava"
+},
+{
+    "result": "Train",
+    "emoji": "\ud83d\ude82",
+    "isNew": false,
+    "first": "Engine",
+    "second": "Bog"
+},
+{
+    "result": "Atlantis",
+    "emoji": "\ud83c\udf0a",
+    "isNew": false,
+    "first": "Poseidon",
+    "second": "Island"
+},
+{
+    "result": "Phoenix",
+    "emoji": "\ud83d\udd25",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Pegasus"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Nothing"
+},
+{
+    "result": "Waterfall",
+    "emoji": "\ud83c\udf0a",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Mountain"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Flood"
+},
+{
+    "result": "Steam",
+    "emoji": "\ud83d\udca8",
+    "isNew": false,
+    "first": "Steampunk",
+    "second": "Rain"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Rain"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Storm",
+    "second": "Waterfall"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Lava"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Mountain",
+    "second": "Swamp"
+},
+{
+    "result": "Golem",
+    "emoji": "\ud83c\udfdb\ufe0f",
+    "isNew": false,
+    "first": "Marsh",
+    "second": "Clay"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Mud"
+},
+{
+    "result": "Mountain",
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Volcano"
+},
+{
+    "result": "Fossil",
+    "emoji": "\ud83e\uddb4",
+    "isNew": false,
+    "first": "Stone",
+    "second": "Bog"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Nothing"
+},
+{
+    "result": "Clay",
+    "emoji": "\ud83c\udffa",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Mud"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Mudslide"
+},
+{
+    "result": "Mud",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Volcano"
+},
+{
+    "result": "Pot of Gold",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Clay"
+},
+{
+    "result": "Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "isNew": false,
+    "first": "Earth",
+    "second": "Cloud"
+},
+{
+    "result": "Steampunk Pirate",
+    "emoji": "\ud83c\udff4\u200d\u2620\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Steampunk Pirate"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Pegasus"
+},
+{
+    "result": "Nothing",
+    "emoji": "",
+    "isNew": false,
+    "first": "Chameleon",
+    "second": "Rainbow"
+},
+{
+    "result": "Mountain",
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Volcano"
+},
+{
+    "result": "Dragon",
+    "emoji": "\ud83d\udc09",
+    "isNew": false,
+    "first": "Lizard",
+    "second": "Volcano"
+},
+{
+    "result": "Tsunami",
+    "emoji": "\ud83c\udf0a",
+    "isNew": false,
+    "first": "Ocean",
+    "second": "Tornado"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Swamp"
+},
+{
+    "result": "Bacon",
+    "emoji": "\ud83e\udd53",
+    "isNew": false,
+    "first": "Cloud",
+    "second": "Baconator"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Storm",
+    "second": "Volcano"
+},
+{
+    "result": "Atlantis",
+    "emoji": "\ud83c\udf0a",
+    "isNew": false,
+    "first": "Unicorn",
+    "second": "Island"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Mud"
+},
+{
+    "result": "Golem",
+    "emoji": "\ud83c\udfdb\ufe0f",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Clay"
+},
+{
+    "result": "Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "isNew": false,
+    "first": "Cloud",
+    "second": "Rainbow"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Volcano"
+},
+{
+    "result": "Island",
+    "emoji": "\ud83c\udfdd\ufe0f",
+    "isNew": false,
+    "first": "Ocean",
+    "second": "Eruption"
+},
+{
+    "result": "Waterfall",
+    "emoji": "\ud83c\udf0a",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Mountain"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Tornado",
+    "second": "Volcano"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Eruption"
+},
+{
+    "result": "Baconator",
+    "emoji": "\ud83c\udf54",
+    "isNew": false,
+    "first": "Steam",
+    "second": "Baconator"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Stone"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Volcano"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Lava"
+},
+{
+    "result": "Godzilla",
+    "emoji": "\ud83e\udd96",
+    "isNew": false,
+    "first": "Lightning",
+    "second": "Lizard"
+},
+{
+    "result": "Earthquake",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Lightning"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Dinosaur",
+    "second": "Eruption"
+},
+{
+    "result": "Nothing",
+    "emoji": "",
+    "isNew": false,
+    "first": "Steampunk",
+    "second": "Baconator"
+},
+{
+    "result": "Dragon",
+    "emoji": "\ud83d\udc09",
+    "isNew": false,
+    "first": "Lizard",
+    "second": "Fire"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Rainbow"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Flood",
+    "second": "Volcano"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Lava"
+},
+{
+    "result": "Mud",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Volcano"
+},
+{
+    "result": "Stone",
+    "emoji": "\ud83e\udea8",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Lava"
+},
+{
+    "result": "Mud",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Eruption"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Eruption"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Eruption"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Unicorn",
+    "second": "Rain"
+},
+{
+    "result": "Clay",
+    "emoji": "\ud83c\udffa",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Obsidian"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Flood"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Mountain",
+    "second": "Volcano"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Atlantis",
+    "second": "Lava"
+},
+{
+    "result": "Double Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Unicorn",
+    "second": "Rainbow"
+},
+{
+    "result": "Atlantis",
+    "emoji": "\ud83c\udf0a",
+    "isNew": false,
+    "first": "Atlantis",
+    "second": "Volcano"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Rainbow"
+},
+{
+    "result": "Pot of Gold",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Clay"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Dragon",
+    "second": "Rain"
+},
+{
+    "result": "Mountain",
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Volcano"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Unicorn",
+    "second": "Lava"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Mountain",
+    "second": "Rainbow"
+},
+{
+    "result": "Fog",
+    "emoji": "\ud83c\udf2b\ufe0f",
+    "isNew": false,
+    "first": "Smoke",
+    "second": "Lake"
+},
+{
+    "result": "Brontosaurus",
+    "emoji": "\ud83e\udd95",
+    "isNew": false,
+    "first": "Dinosaur",
+    "second": "Fog"
+},
+{
+    "result": "Clay",
+    "emoji": "\ud83c\udffa",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Lava"
+},
+{
+    "result": "Iceberg",
+    "emoji": "\ud83c\udf0a",
+    "isNew": false,
+    "first": "Atlantis",
+    "second": "Snow"
+},
+{
+    "result": "Pegasus",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Mountain",
+    "second": "Unicorn"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Marsh",
+    "second": "Volcano"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Steampunk Pirate"
+},
+{
+    "result": "Mud",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Rain"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Clay"
+},
+{
+    "result": "Pig",
+    "emoji": "\ud83d\udc37",
+    "isNew": false,
+    "first": "Bacon",
+    "second": "Train"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Mountain",
+    "second": "Volcano"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Mud"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Volcano"
+},
+{
+    "result": "Avalanche",
+    "emoji": "\ud83c\udf28\ufe0f",
+    "isNew": false,
+    "first": "Mountain",
+    "second": "Mudslide"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Volcano"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Dragon",
+    "second": "Rain"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Cloud"
+},
+{
+    "result": "Pot of Gold",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Clay",
+    "second": "Rainbow"
+},
+{
+    "result": "Island",
+    "emoji": "\ud83c\udfdd\ufe0f",
+    "isNew": false,
+    "first": "Lake",
+    "second": "Volcano"
+},
+{
+    "result": "Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Cloud"
+},
+{
+    "result": "Phoenix",
+    "emoji": "\ud83d\udd25",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Pegasus"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Phoenix",
+    "second": "Pegasus"
+},
+{
+    "result": "Dragon",
+    "emoji": "\ud83d\udc09",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Lizard"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Volcano"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Eruption"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Lava"
+},
+{
+    "result": "Gargoyle",
+    "emoji": "\ud83d\udc09",
+    "isNew": false,
+    "first": "Dragon",
+    "second": "Statue"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Tsunami"
+},
+{
+    "result": "Fog",
+    "emoji": "\ud83c\udf2b\ufe0f",
+    "isNew": false,
+    "first": "Mist",
+    "second": "Swamp"
+},
+{
+    "result": "Mud",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Mudslide",
+    "second": "Nothing"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Island",
+    "second": "Rain"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Phoenix",
+    "second": "Bog"
+},
+{
+    "result": "Statue of Liberty",
+    "emoji": "\ud83d\uddfd",
+    "isNew": false,
+    "first": "Statue",
+    "second": "Island"
+},
+{
+    "result": "Mud",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Clay",
+    "second": "Storm"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Brick",
+    "second": "Eruption"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Nothing",
+    "second": "Lava"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Swamp"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Dragon",
+    "second": "Eruption"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Pottery"
+},
+{
+    "result": "Stone",
+    "emoji": "\ud83e\udea8",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Lava"
+},
+{
+    "result": "Hawaii",
+    "emoji": "\ud83c\udf3a",
+    "isNew": false,
+    "first": "Island",
+    "second": "Volcano"
+},
+{
+    "result": "Obsidian",
+    "emoji": "\ud83d\udd2a",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Stone"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Mountain",
+    "second": "Lava"
+},
+{
+    "result": "Mountain",
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Volcano"
+},
+{
+    "result": "Dinosaur",
+    "emoji": "\ud83e\udd96",
+    "isNew": false,
+    "first": "Fossil",
+    "second": "Volcano"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Pegasus"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Bog",
+    "second": "Mud"
+},
+{
+    "result": "Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "isNew": false,
+    "first": "Meteor",
+    "second": "Cloud"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Lava"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Lava"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Rainbow"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Cloud",
+    "second": "Lava"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Candy",
+    "second": "Volcano"
+},
+{
+    "result": "Phoenix",
+    "emoji": "\ud83d\udd25",
+    "isNew": false,
+    "first": "Pegasus",
+    "second": "Volcano"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Nothing"
+},
+{
+    "result": "Ghost",
+    "emoji": "\ud83d\udc7b",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Fog"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Rainbow"
+},
+{
+    "result": "Storm",
+    "emoji": "\u26c8\ufe0f",
+    "isNew": false,
+    "first": "Wind",
+    "second": "Rain"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Dragon",
+    "second": "Lava"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Volcano"
+},
+{
+    "result": "Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Storm"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Lava"
+},
+{
+    "result": "Winged Victory",
+    "emoji": "\ud83c\udfc6",
+    "isNew": false,
+    "first": "Statue",
+    "second": "Pegasus"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Marsh",
+    "second": "Cloud"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Eruption"
+},
+{
+    "result": "Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Cloud"
+},
+{
+    "result": "Loch Ness",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Atlantis",
+    "second": "Swamp"
+},
+{
+    "result": "Pig",
+    "emoji": "\ud83d\udc37",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Mud"
+},
+{
+    "result": "Steam",
+    "emoji": "\ud83d\udca8",
+    "isNew": false,
+    "first": "Steampunk",
+    "second": "Rain"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Unicorn",
+    "second": "Unicorn"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Marsh",
+    "second": "Lava"
+},
+{
+    "result": "Phoenix",
+    "emoji": "\ud83d\udd25",
+    "isNew": false,
+    "first": "Brick",
+    "second": "Firebird"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Mud"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Mudslide",
+    "second": "Lava"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Swamp"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Rainbow"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Volcano"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Steampunk Pirate"
+},
+{
+    "result": "Narwhal",
+    "emoji": "\ud83d\udc33",
+    "isNew": false,
+    "first": "Tsunami",
+    "second": "Unicorn"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Eruption"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Statue",
+    "second": "Eruption"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Unicorn"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Fog",
+    "second": "Waterfall"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Mountain",
+    "second": "Island"
+},
+{
+    "result": "Mud",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Rain"
+},
+{
+    "result": "Bacon",
+    "emoji": "\ud83e\udd53",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Pig"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Rainbow"
+},
+{
+    "result": "Dragon",
+    "emoji": "\ud83d\udc09",
+    "isNew": false,
+    "first": "Unicorn",
+    "second": "Dinosaur"
+},
+{
+    "result": "Golem",
+    "emoji": "\ud83c\udfdb\ufe0f",
+    "isNew": false,
+    "first": "Pegasus",
+    "second": "Clay"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Wind",
+    "second": "Lava"
+},
+{
+    "result": "Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "isNew": false,
+    "first": "Cloud",
+    "second": "Lake"
+},
+{
+    "result": "Waterfall",
+    "emoji": "\ud83c\udf0a",
+    "isNew": false,
+    "first": "Waterfall",
+    "second": "Nothing"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Mountain",
+    "second": "Volcano"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Avalanche"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Volcano"
+},
+{
+    "result": "Firebird",
+    "emoji": "\ud83d\udc26",
+    "isNew": false,
+    "first": "Lake",
+    "second": "Phoenix"
+},
+{
+    "result": "Tornado",
+    "emoji": "\ud83c\udf2a\ufe0f",
+    "isNew": false,
+    "first": "Tornado",
+    "second": "Dragon"
+},
+{
+    "result": "Atlantis",
+    "emoji": "\ud83c\udf0a",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Atlantis"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Stone",
+    "second": "Volcano"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Steam",
+    "second": "Earthquake"
+},
+{
+    "result": "Baconator",
+    "emoji": "\ud83c\udf54",
+    "isNew": false,
+    "first": "Baconator",
+    "second": "Statue of Liberty"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Cloud"
+},
+{
+    "result": "Pottery",
+    "emoji": "\ud83c\udffa",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Clay"
+},
+{
+    "result": "Mountain",
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Volcano"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Rainbow"
+},
+{
+    "result": "Bird",
+    "emoji": "\ud83d\udc26",
+    "isNew": false,
+    "first": "Phoenix",
+    "second": "Mud"
+},
+{
+    "result": "Phoenix",
+    "emoji": "\ud83d\udd25",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Pegasus"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Lava"
+},
+{
+    "result": "Mount Rushmore",
+    "emoji": "\ud83d\uddfb",
+    "isNew": false,
+    "first": "Statue of Liberty",
+    "second": "Volcano"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Storm"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Marsh",
+    "second": "Rain"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Pot of Gold"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Eruption"
+},
+{
+    "result": "Mud",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Earth",
+    "second": "Swamp"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Island",
+    "second": "Rain"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Cloud",
+    "second": "Rain"
+},
+{
+    "result": "Firebird",
+    "emoji": "\ud83d\udc26",
+    "isNew": false,
+    "first": "Phoenix",
+    "second": "Volcano"
+},
+{
+    "result": "Pegasus",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Unicorn",
+    "second": "Volcano"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Volcano"
+},
+{
+    "result": "Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "isNew": false,
+    "first": "Mudslide",
+    "second": "Cloud"
+},
+{
+    "result": "Pegasus",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Unicorn"
+},
+{
+    "result": "Obsidian",
+    "emoji": "\ud83d\udd2a",
+    "isNew": false,
+    "first": "Stone",
+    "second": "Lava"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Eruption"
+},
+{
+    "result": "Smoke",
+    "emoji": "\ud83d\udca8",
+    "isNew": false,
+    "first": "Ash",
+    "second": "Mist"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Mountain"
+},
+{
+    "result": "Mud",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Volcano"
+},
+{
+    "result": "Cloud",
+    "emoji": "\u2601\ufe0f",
+    "isNew": false,
+    "first": "Lake",
+    "second": "Steam"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Unicorn",
+    "second": "Unicorn"
+},
+{
+    "result": "Stone",
+    "emoji": "\ud83e\udea8",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Lava"
+},
+{
+    "result": "Pottery",
+    "emoji": "\ud83c\udffa",
+    "isNew": false,
+    "first": "Mountain",
+    "second": "Ceramic"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Mountain",
+    "second": "Steam"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Clay",
+    "second": "Lava"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Mudslide"
+},
+{
+    "result": "Ice",
+    "emoji": "\u2744\ufe0f",
+    "isNew": false,
+    "first": "Iceberg",
+    "second": "Waterfall"
+},
+{
+    "result": "Pegasus",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Unicorn"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Volcano"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Rainbow"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Mountain",
+    "second": "Volcano"
+},
+{
+    "result": "Quagmire",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Mud"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Volcano"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Unicorn",
+    "second": "Lava"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Fog"
+},
+{
+    "result": "Mist",
+    "emoji": "\ud83c\udf2b\ufe0f",
+    "isNew": false,
+    "first": "Fog",
+    "second": "Earth"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Lava"
+},
+{
+    "result": "Poseidon",
+    "emoji": "\ud83c\udf0a",
+    "isNew": false,
+    "first": "Mountain",
+    "second": "Atlantis"
+},
+{
+    "result": "Nothing",
+    "emoji": "",
+    "isNew": false,
+    "first": "Brick",
+    "second": "Rainbow"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Double Rainbow"
+},
+{
+    "result": "Golem",
+    "emoji": "\ud83c\udfdb\ufe0f",
+    "isNew": false,
+    "first": "Golem",
+    "second": "Unicorn"
+},
+{
+    "result": "Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "isNew": false,
+    "first": "Cloud",
+    "second": "Volcano"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Bog"
+},
+{
+    "result": "Pottery",
+    "emoji": "\ud83c\udffa",
+    "isNew": false,
+    "first": "Clay",
+    "second": "Mud"
+},
+{
+    "result": "Mountain",
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "isNew": false,
+    "first": "Nothing",
+    "second": "Mountain"
+},
+{
+    "result": "Statue",
+    "emoji": "\ud83d\uddfd",
+    "isNew": false,
+    "first": "Phoenix",
+    "second": "Stone"
+},
+{
+    "result": "Phoenix",
+    "emoji": "\ud83d\udd25",
+    "isNew": false,
+    "first": "Pegasus",
+    "second": "Volcano"
+},
+{
+    "result": "Island",
+    "emoji": "\ud83c\udfdd\ufe0f",
+    "isNew": false,
+    "first": "Mountain",
+    "second": "Tsunami"
+},
+{
+    "result": "Clay",
+    "emoji": "\ud83c\udffa",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Eruption"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Smoke"
+},
+{
+    "result": "Mud",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Earthquake",
+    "second": "Rain"
+},
+{
+    "result": "Snow",
+    "emoji": "\u2744\ufe0f",
+    "isNew": false,
+    "first": "Cloud",
+    "second": "Mountain"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Mountain",
+    "second": "Pegasus"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Swamp"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Lava"
+},
+{
+    "result": "Penguin",
+    "emoji": "\ud83d\udc27",
+    "isNew": false,
+    "first": "Iceberg",
+    "second": "Phoenix"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Golem"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Plant",
+    "second": "Volcano"
+},
+{
+    "result": "Phoenix",
+    "emoji": "\ud83d\udd25",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Firebird"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Lava"
+},
+{
+    "result": "Firebird",
+    "emoji": "\ud83d\udc26",
+    "isNew": false,
+    "first": "Phoenix",
+    "second": "Lava"
+},
+{
+    "result": "Thunder",
+    "emoji": "\u26c8\ufe0f",
+    "isNew": false,
+    "first": "Golem",
+    "second": "Storm"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Cloud",
+    "second": "Pegasus"
+},
+{
+    "result": "Gargoyle",
+    "emoji": "\ud83d\udc09",
+    "isNew": false,
+    "first": "Bird",
+    "second": "Statue"
+},
+{
+    "result": "Clay",
+    "emoji": "\ud83c\udffa",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Mud"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Fire",
+    "second": "Lava"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Eruption"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Dragon",
+    "second": "Volcano"
+},
+{
+    "result": "Gargoyle",
+    "emoji": "\ud83d\udc09",
+    "isNew": false,
+    "first": "Stone",
+    "second": "Unicorn"
+},
+{
+    "result": "Marsh",
+    "emoji": "\ud83c\udf3f",
+    "isNew": false,
+    "first": "Flood",
+    "second": "Swamp"
+},
+{
+    "result": "Hawaii",
+    "emoji": "\ud83c\udf3a",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Beach"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Rain"
+},
+{
+    "result": "Double Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Unicorn"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Mud"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Dragon",
+    "second": "Volcano"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Smoke",
+    "second": "Volcano"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Dragon"
+},
+{
+    "result": "Dinosaur",
+    "emoji": "\ud83e\udd96",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Fossil"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Pegasus"
+},
+{
+    "result": "Dinosaur",
+    "emoji": "\ud83e\udd96",
+    "isNew": false,
+    "first": "Fossil",
+    "second": "Eruption"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Volcano"
+},
+{
+    "result": "Vase",
+    "emoji": "\ud83c\udffa",
+    "isNew": false,
+    "first": "Ceramic",
+    "second": "Pottery"
+},
+{
+    "result": "Pigpen",
+    "emoji": "\ud83d\udc37",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Pig"
+},
+{
+    "result": "Golem",
+    "emoji": "\ud83c\udfdb\ufe0f",
+    "isNew": false,
+    "first": "Clay",
+    "second": "Godzilla"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Rainbow"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Rain"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Rainbow"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Volcano"
+},
+{
+    "result": "Atlantis",
+    "emoji": "\ud83c\udf0a",
+    "isNew": false,
+    "first": "Island",
+    "second": "Ocean"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Lava"
+},
+{
+    "result": "Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "isNew": false,
+    "first": "Flower",
+    "second": "Rainbow"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Marsh",
+    "second": "Lava"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Bog"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Hawaii"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Marsh"
+},
+{
+    "result": "Monster",
+    "emoji": "\ud83d\udc7e",
+    "isNew": false,
+    "first": "Loch Ness",
+    "second": "Mud"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Eruption"
+},
+{
+    "result": "Nothing",
+    "emoji": "",
+    "isNew": false,
+    "first": "Nothing",
+    "second": "Obsidian"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Lava"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Volcano"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Plant",
+    "second": "Volcano"
+},
+{
+    "result": "Marsh",
+    "emoji": "\ud83c\udf3f",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Bog"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Fog",
+    "second": "Volcano"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Phoenix",
+    "second": "Mountain"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Lava"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Nothing",
+    "second": "Volcano"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Meteor",
+    "second": "Rain"
+},
+{
+    "result": "Quagmire",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Mud"
+},
+{
+    "result": "Pig",
+    "emoji": "\ud83d\udc37",
+    "isNew": false,
+    "first": "Golem",
+    "second": "Bacon"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Ash"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Cloud"
+},
+{
+    "result": "Pig",
+    "emoji": "\ud83d\udc37",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Rainbow"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Avalanche",
+    "second": "Volcano"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Rain"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Unicorn",
+    "second": "Rain"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Volcano"
+},
+{
+    "result": "Mountain",
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Volcano"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Rain"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Volcano"
+},
+{
+    "result": "Pegasus",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Unicorn"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Cloud"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Lake",
+    "second": "Marsh"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Dragon",
+    "second": "Lava"
+},
+{
+    "result": "Snow",
+    "emoji": "\u2744\ufe0f",
+    "isNew": false,
+    "first": "Cloud",
+    "second": "Mountain"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Phoenix"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Pegasus",
+    "second": "Mountain"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Rainbow"
+},
+{
+    "result": "Hawaii",
+    "emoji": "\ud83c\udf3a",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Island"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Cloud",
+    "second": "Unicorn"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Mountain",
+    "second": "Volcano"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Marsh",
+    "second": "Ocean"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Ark",
+    "second": "Lava"
+},
+{
+    "result": "Mountain",
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Volcano"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Narwhal",
+    "second": "Waterfall"
+},
+{
+    "result": "Lizard",
+    "emoji": "\ud83e\udd8e",
+    "isNew": false,
+    "first": "Chameleon",
+    "second": "Lava"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Marsh",
+    "second": "Rain"
+},
+{
+    "result": "Clay",
+    "emoji": "\ud83c\udffa",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Mud"
+},
+{
+    "result": "Phoenix",
+    "emoji": "\ud83d\udd25",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Pegasus"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Storm",
+    "second": "Lava"
+},
+{
+    "result": "Marsh",
+    "emoji": "\ud83c\udf3f",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Rainbow"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Lava"
+},
+{
+    "result": "Firebird",
+    "emoji": "\ud83d\udc26",
+    "isNew": false,
+    "first": "Phoenix",
+    "second": "Lava"
+},
+{
+    "result": "Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Cloud"
+},
+{
+    "result": "Mountain",
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Volcano"
+},
+{
+    "result": "Teapot",
+    "emoji": "\ud83c\udf75",
+    "isNew": false,
+    "first": "Steam",
+    "second": "Ceramic"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Eruption"
+},
+{
+    "result": "Rock",
+    "emoji": "\ud83e\udea8",
+    "isNew": false,
+    "first": "Mountain",
+    "second": "Stone"
+},
+{
+    "result": "Steampunk Pirate",
+    "emoji": "\ud83c\udff4\u200d\u2620\ufe0f",
+    "isNew": false,
+    "first": "Steampunk Pirate",
+    "second": "Poseidon"
+},
+{
+    "result": "Flower",
+    "emoji": "\ud83c\udf38",
+    "isNew": false,
+    "first": "Plant",
+    "second": "Rainbow"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Marsh"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Steampunk",
+    "second": "Marsh"
+},
+{
+    "result": "Dinosaur",
+    "emoji": "\ud83e\udd96",
+    "isNew": false,
+    "first": "Unicorn",
+    "second": "Fossil"
+},
+{
+    "result": "Lizard",
+    "emoji": "\ud83e\udd8e",
+    "isNew": false,
+    "first": "Dragon",
+    "second": "Swamp"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Clay",
+    "second": "Lava"
+},
+{
+    "result": "Clay",
+    "emoji": "\ud83c\udffa",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Lava"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Flood"
+},
+{
+    "result": "Clay",
+    "emoji": "\ud83c\udffa",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Mud"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Avalanche"
+},
+{
+    "result": "Golem",
+    "emoji": "\ud83c\udfdb\ufe0f",
+    "isNew": false,
+    "first": "Clay",
+    "second": "Fog"
+},
+{
+    "result": "Mudslide",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Storm"
+},
+{
+    "result": "Nothing",
+    "emoji": "",
+    "isNew": false,
+    "first": "Nothing",
+    "second": "Unicorn"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Mud"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Tornado"
+},
+{
+    "result": "Hippopotamus",
+    "emoji": "\ud83e\udd9b",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Unicorn"
+},
+{
+    "result": "Cloud",
+    "emoji": "\u2601\ufe0f",
+    "isNew": false,
+    "first": "Steam",
+    "second": "Rain"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Rainbow"
+},
+{
+    "result": "Cup",
+    "emoji": "\ud83c\udf76",
+    "isNew": false,
+    "first": "Ceramic",
+    "second": "Unicorn"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Volcano"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Cloud",
+    "second": "Lava"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Volcano"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Mountain"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Volcano"
+},
+{
+    "result": "Marsh",
+    "emoji": "\ud83c\udf3f",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Rainbow"
+},
+{
+    "result": "Mountain",
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Volcano"
+},
+{
+    "result": "Phoenix",
+    "emoji": "\ud83d\udd25",
+    "isNew": false,
+    "first": "Pegasus",
+    "second": "Volcano"
+},
+{
+    "result": "Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Cloud"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Nothing"
+},
+{
+    "result": "Phoenix",
+    "emoji": "\ud83d\udd25",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Firebird"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Rainbow"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Chameleon",
+    "second": "Volcano"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Volcano"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Swamp"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Swamp"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Flood"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Marsh"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Mountain"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Pegasus"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Lava"
+},
+{
+    "result": "Dragon",
+    "emoji": "\ud83d\udc09",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Gargoyle"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Bog",
+    "second": "Eruption"
+},
+{
+    "result": "Rainbow Rock",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Stone",
+    "second": "Rainbow"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Smoke",
+    "second": "Volcano"
+},
+{
+    "result": "Dinosaur",
+    "emoji": "\ud83e\udd96",
+    "isNew": false,
+    "first": "Brontosaurus",
+    "second": "Mudslide"
+},
+{
+    "result": "Wave",
+    "emoji": "\ud83c\udf0a",
+    "isNew": false,
+    "first": "Surf",
+    "second": "Mountain"
+},
+{
+    "result": "Pigasus",
+    "emoji": "\ud83d\udc37",
+    "isNew": false,
+    "first": "Pig",
+    "second": "Fossil"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Lava"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Phoenix",
+    "second": "Mountain"
+},
+{
+    "result": "Golem",
+    "emoji": "\ud83c\udfdb\ufe0f",
+    "isNew": false,
+    "first": "Clay",
+    "second": "Swamp"
+},
+{
+    "result": "Fog",
+    "emoji": "\ud83c\udf2b\ufe0f",
+    "isNew": false,
+    "first": "Cloud",
+    "second": "Swamp"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Volcano"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Marsh",
+    "second": "Storm"
+},
+{
+    "result": "Ceramic",
+    "emoji": "\ud83c\udffa",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Clay"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Swampasaurus"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Volcano"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Bog",
+    "second": "Volcano"
+},
+{
+    "result": "Baconator",
+    "emoji": "\ud83c\udf54",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Bacon"
+},
+{
+    "result": "Phoenix",
+    "emoji": "\ud83d\udd25",
+    "isNew": false,
+    "first": "Phoenix",
+    "second": "Phoenix"
+},
+{
+    "result": "Atlantis",
+    "emoji": "\ud83c\udf0a",
+    "isNew": false,
+    "first": "Atlantis",
+    "second": "Volcano"
+},
+{
+    "result": "Dinosaur",
+    "emoji": "\ud83e\udd96",
+    "isNew": false,
+    "first": "Fossil",
+    "second": "Lava"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Stone",
+    "second": "Volcano"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Tsunami"
+},
+{
+    "result": "Obsidian",
+    "emoji": "\ud83d\udd2a",
+    "isNew": false,
+    "first": "Stone",
+    "second": "Lava"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Rainbow"
+},
+{
+    "result": "Bacon",
+    "emoji": "\ud83e\udd53",
+    "isNew": false,
+    "first": "Pig",
+    "second": "Unicorn"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Marsh",
+    "second": "Train"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Fog"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Volcano"
+},
+{
+    "result": "Vase",
+    "emoji": "\ud83c\udffa",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Pottery"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Mountain"
+},
+{
+    "result": "Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "isNew": false,
+    "first": "Cloud",
+    "second": "Tornado"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Dinosaur",
+    "second": "Rainbow"
+},
+{
+    "result": "Disaster",
+    "emoji": "\ud83c\udf2a\ufe0f",
+    "isNew": false,
+    "first": "Tsunami",
+    "second": "Flood"
+},
+{
+    "result": "Stone",
+    "emoji": "\ud83e\udea8",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Lava"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Swamp"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Volcano"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Volcano"
+},
+{
+    "result": "Atlantis",
+    "emoji": "\ud83c\udf0a",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Atlantis"
+},
+{
+    "result": "Flood",
+    "emoji": "\ud83c\udf0a",
+    "isNew": false,
+    "first": "Flood",
+    "second": "Rain"
+},
+{
+    "result": "Mountain Range",
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "isNew": false,
+    "first": "Mountain",
+    "second": "Mountain"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lake",
+    "second": "Lava"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Volcano"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Volcano"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Snow",
+    "second": "Volcano"
+},
+{
+    "result": "Glass",
+    "emoji": "\ud83e\udd43",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Obsidian"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Rainbow"
+},
+{
+    "result": "Pig",
+    "emoji": "\ud83d\udc37",
+    "isNew": false,
+    "first": "Quagmire",
+    "second": "Bacon"
+},
+{
+    "result": "Tea",
+    "emoji": "\ud83c\udf75",
+    "isNew": false,
+    "first": "Teapot",
+    "second": "Volcano"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Pegasus",
+    "second": "Marsh"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Eruption"
+},
+{
+    "result": "Vase",
+    "emoji": "\ud83c\udffa",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Pottery"
+},
+{
+    "result": "Nothing",
+    "emoji": "",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Train"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Smoke",
+    "second": "Eruption"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Mudslide",
+    "second": "Marsh"
+},
+{
+    "result": "Narwhal",
+    "emoji": "\ud83d\udc33",
+    "isNew": false,
+    "first": "Quagmire",
+    "second": "Unicorn"
+},
+{
+    "result": "Mud",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Rain"
+},
+{
+    "result": "Creeper",
+    "emoji": "\ud83d\udca3",
+    "isNew": false,
+    "first": "Monster",
+    "second": "Obsidian"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Lava"
+},
+{
+    "result": "Mud",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Rain"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Eruption"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Unicorn",
+    "second": "Rain"
+},
+{
+    "result": "Pegasus",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Unicorn"
+},
+{
+    "result": "Golem",
+    "emoji": "\ud83c\udfdb\ufe0f",
+    "isNew": false,
+    "first": "Steampunk Pirate",
+    "second": "Stone"
+},
+{
+    "result": "Double Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Unicorn",
+    "second": "Rainbow"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Mudslide"
+},
+{
+    "result": "Phoenix",
+    "emoji": "\ud83d\udd25",
+    "isNew": false,
+    "first": "Firebird",
+    "second": "Rainbow"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Lava"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Lava"
+},
+{
+    "result": "Cloud",
+    "emoji": "\u2601\ufe0f",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Steam"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Marsh"
+},
+{
+    "result": "Dragon",
+    "emoji": "\ud83d\udc09",
+    "isNew": false,
+    "first": "Monster",
+    "second": "Lava"
+},
+{
+    "result": "Phoenix",
+    "emoji": "\ud83d\udd25",
+    "isNew": false,
+    "first": "Firebird",
+    "second": "Earthquake"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Bog",
+    "second": "Lava"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Godzilla",
+    "second": "Eruption"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Rainbow"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Lava"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Mount Rushmore"
+},
+{
+    "result": "Golem",
+    "emoji": "\ud83c\udfdb\ufe0f",
+    "isNew": false,
+    "first": "Unicorn",
+    "second": "Clay"
+},
+{
+    "result": "Mud",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Mudslide",
+    "second": "Nothing"
+},
+{
+    "result": "Bog",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Swamp"
+},
+{
+    "result": "Double Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Unicorn",
+    "second": "Rainbow"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Volcano"
+},
+{
+    "result": "Atlantis",
+    "emoji": "\ud83c\udf0a",
+    "isNew": false,
+    "first": "Ocean",
+    "second": "Phoenix"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Volcano"
+},
+{
+    "result": "Mountain",
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Volcano"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Volcano"
+},
+{
+    "result": "Dragon",
+    "emoji": "\ud83d\udc09",
+    "isNew": false,
+    "first": "Lizard",
+    "second": "Pegasus"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Nothing"
+},
+{
+    "result": "Sphinx",
+    "emoji": "\ud83d\udc2b",
+    "isNew": false,
+    "first": "Statue",
+    "second": "Mountain"
+},
+{
+    "result": "Pig",
+    "emoji": "\ud83d\udc37",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Bacon"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Hawaii",
+    "second": "Swamp"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Lava"
+},
+{
+    "result": "Phoenix",
+    "emoji": "\ud83d\udd25",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Pegasus"
+},
+{
+    "result": "Fossil",
+    "emoji": "\ud83e\uddb4",
+    "isNew": false,
+    "first": "Fossil",
+    "second": "Dinosaur"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Pegasus"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Storm",
+    "second": "Unicorn"
+},
+{
+    "result": "Mud",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Rain"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Volcano"
+},
+{
+    "result": "Hawaii",
+    "emoji": "\ud83c\udf3a",
+    "isNew": false,
+    "first": "Island",
+    "second": "Volcano"
+},
+{
+    "result": "Pegasus",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Unicorn"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Lava"
+},
+{
+    "result": "Baconator",
+    "emoji": "\ud83c\udf54",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Bacon"
+},
+{
+    "result": "Pegasus",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Unicorn"
+},
+{
+    "result": "Baconator",
+    "emoji": "\ud83c\udf54",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Bacon"
+},
+{
+    "result": "Noah",
+    "emoji": "\ud83d\udc18",
+    "isNew": false,
+    "first": "Island",
+    "second": "Ark"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Pegasus",
+    "second": "Swamp"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Swamp"
+},
+{
+    "result": "Glass",
+    "emoji": "\ud83e\udd43",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Obsidian"
+},
+{
+    "result": "Narwhal",
+    "emoji": "\ud83d\udc33",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Unicorn"
+},
+{
+    "result": "Paradise",
+    "emoji": "\ud83c\udfdd\ufe0f",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Island"
+},
+{
+    "result": "Mud",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Rain"
+},
+{
+    "result": "Pegasus",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Unicorn",
+    "second": "Volcano"
+},
+{
+    "result": "River",
+    "emoji": "\ud83c\udf0a",
+    "isNew": false,
+    "first": "Waterfall",
+    "second": "Mountain"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Pegasus"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Double Rainbow"
+},
+{
+    "result": "Baconcorn",
+    "emoji": "\ud83c\udf3d",
+    "isNew": false,
+    "first": "Unicorn",
+    "second": "Bacon"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Lava"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Golem",
+    "second": "Volcano"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Mountain"
+},
+{
+    "result": "Mud",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Rain"
+},
+{
+    "result": "Atlantis",
+    "emoji": "\ud83c\udf0a",
+    "isNew": false,
+    "first": "Atlantis",
+    "second": "Rainbow"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Double Rainbow"
+},
+{
+    "result": "Pottery",
+    "emoji": "\ud83c\udffa",
+    "isNew": false,
+    "first": "Ceramic",
+    "second": "Fog"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Atlantis",
+    "second": "Pegasus"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Cloud",
+    "second": "Lava"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Waterfall",
+    "second": "Rainbow"
+},
+{
+    "result": "Marsh",
+    "emoji": "\ud83c\udf3f",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Swamp"
+},
+{
+    "result": "Pegasus",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Unicorn",
+    "second": "Mountain"
+},
+{
+    "result": "Dinosaur",
+    "emoji": "\ud83e\udd96",
+    "isNew": false,
+    "first": "Brontosaurus",
+    "second": "Unicorn"
+},
+{
+    "result": "Cloud",
+    "emoji": "\u2601\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Mist"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Thunder",
+    "second": "Lava"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Mountain",
+    "second": "Hawaii"
+},
+{
+    "result": "Phoenix",
+    "emoji": "\ud83d\udd25",
+    "isNew": false,
+    "first": "Pegasus",
+    "second": "Volcano"
+},
+{
+    "result": "Lava Lamp",
+    "emoji": "\ud83d\udca1",
+    "isNew": false,
+    "first": "Vase",
+    "second": "Volcano"
+},
+{
+    "result": "Steampunk Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Unicorn",
+    "second": "Steampunk Pirate"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Meteor",
+    "second": "Rain"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Lava"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Volcano"
+},
+{
+    "result": "Stone",
+    "emoji": "\ud83e\udea8",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Lava"
+},
+{
+    "result": "Narwhal",
+    "emoji": "\ud83d\udc33",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Unicorn"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Rock",
+    "second": "Volcano"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Stone"
+},
+{
+    "result": "Geyser",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Waterfall"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Marsh",
+    "second": "Volcano"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Volcano"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Storm",
+    "second": "Volcano"
+},
+{
+    "result": "Island",
+    "emoji": "\ud83c\udfdd\ufe0f",
+    "isNew": false,
+    "first": "Ocean",
+    "second": "Volcano"
+},
+{
+    "result": "Earthquake",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Tsunami"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Volcano"
+},
+{
+    "result": "Mud",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Storm",
+    "second": "Mudslide"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Beach",
+    "second": "Eruption"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Rainbow"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Mud"
+},
+{
+    "result": "Pot of Gold",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Cup",
+    "second": "Rainbow"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Swamp"
+},
+{
+    "result": "Fossil",
+    "emoji": "\ud83e\uddb4",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Dinosaur"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Bog"
+},
+{
+    "result": "Nothing",
+    "emoji": "",
+    "isNew": false,
+    "first": "Unicorn",
+    "second": "Nothing"
+},
+{
+    "result": "Pork",
+    "emoji": "\ud83d\udc37",
+    "isNew": false,
+    "first": "Marsh",
+    "second": "Pig"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Marsh",
+    "second": "Volcano"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Mountain",
+    "second": "Pegasus"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Cloud",
+    "second": "Tsunami"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Poseidon"
+},
+{
+    "result": "Fossil",
+    "emoji": "\ud83e\uddb4",
+    "isNew": false,
+    "first": "Dinosaur",
+    "second": "Rain"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Lava"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Rainbow"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Unicorn",
+    "second": "Unicorn"
+},
+{
+    "result": "Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Ice"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Double Rainbow",
+    "second": "Lava"
+},
+{
+    "result": "Pottery",
+    "emoji": "\ud83c\udffa",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Clay"
+},
+{
+    "result": "Mountain",
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Volcano"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Unicorn"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Volcano"
+},
+{
+    "result": "Rainbow Pirate",
+    "emoji": "\ud83c\udff4\u200d\u2620\ufe0f",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Steampunk Pirate"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Marsh",
+    "second": "Mountain"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Nothing",
+    "second": "Rainbow"
+},
+{
+    "result": "Flood",
+    "emoji": "\ud83c\udf0a",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Atlantis"
+},
+{
+    "result": "Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "isNew": false,
+    "first": "Ceramic",
+    "second": "Cloud"
+},
+{
+    "result": "Marsh",
+    "emoji": "\ud83c\udf3f",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Swamp"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Rainbow"
+},
+{
+    "result": "Statue",
+    "emoji": "\ud83d\uddfd",
+    "isNew": false,
+    "first": "Stone",
+    "second": "Phoenix"
+},
+{
+    "result": "Steampunk Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Steampunk Pirate",
+    "second": "Unicorn"
+},
+{
+    "result": "Dinosaur",
+    "emoji": "\ud83e\udd96",
+    "isNew": false,
+    "first": "Fossil",
+    "second": "Phoenix"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Stone",
+    "second": "Volcano"
+},
+{
+    "result": "Golem",
+    "emoji": "\ud83c\udfdb\ufe0f",
+    "isNew": false,
+    "first": "Unicorn",
+    "second": "Clay"
+},
+{
+    "result": "Nothing",
+    "emoji": "",
+    "isNew": false,
+    "first": "Nothing",
+    "second": "Unicorn"
+},
+{
+    "result": "Mountain",
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Volcano"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Flood"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Unicorn"
+},
+{
+    "result": "Rainbow Rock",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Stone",
+    "second": "Rainbow"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Mudslide",
+    "second": "Volcano"
+},
+{
+    "result": "Pegasus",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Unicorn"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Smoke",
+    "second": "Volcano"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Cloud",
+    "second": "Marsh"
+},
+{
+    "result": "Marsh",
+    "emoji": "\ud83c\udf3f",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Flood"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Quagmire",
+    "second": "Mountain"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Dinosaur"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Volcano"
+},
+{
+    "result": "Bacon",
+    "emoji": "\ud83e\udd53",
+    "isNew": false,
+    "first": "Unicorn",
+    "second": "Pig"
+},
+{
+    "result": "Phoenix",
+    "emoji": "\ud83d\udd25",
+    "isNew": false,
+    "first": "Firebird",
+    "second": "Swamp"
+},
+{
+    "result": "Mountain",
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Volcano"
+},
+{
+    "result": "Pegasus",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Unicorn",
+    "second": "Volcano"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Steam",
+    "second": "Mountain"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Lava"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Swamp"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Dinosaur",
+    "second": "Mountain"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Unicorn"
+},
+{
+    "result": "Pegasus",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Unicorn",
+    "second": "Volcano"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Mountain"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Volcano"
+},
+{
+    "result": "Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "isNew": false,
+    "first": "Fog",
+    "second": "Cloud"
+},
+{
+    "result": "Dragon",
+    "emoji": "\ud83d\udc09",
+    "isNew": false,
+    "first": "Phoenix",
+    "second": "Swamp"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Rainbow Pirate"
+},
+{
+    "result": "Phoenix",
+    "emoji": "\ud83d\udd25",
+    "isNew": false,
+    "first": "Teapot",
+    "second": "Firebird"
+},
+{
+    "result": "Phoenix",
+    "emoji": "\ud83d\udd25",
+    "isNew": false,
+    "first": "Atlantis",
+    "second": "Firebird"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Volcano"
+},
+{
+    "result": "Avalanche",
+    "emoji": "\ud83c\udf28\ufe0f",
+    "isNew": false,
+    "first": "Mudslide",
+    "second": "Mountain"
+},
+{
+    "result": "Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "isNew": false,
+    "first": "Cloud",
+    "second": "Volcano"
+},
+{
+    "result": "Angel",
+    "emoji": "\ud83d\udc7c",
+    "isNew": false,
+    "first": "Cloud",
+    "second": "Gargoyle"
+},
+{
+    "result": "Tsunami",
+    "emoji": "\ud83c\udf0a",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Earthquake"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Lava"
+},
+{
+    "result": "Bacon",
+    "emoji": "\ud83e\udd53",
+    "isNew": false,
+    "first": "Pig",
+    "second": "Rainbow"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Phoenix",
+    "second": "Mountain"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Marsh",
+    "second": "Volcano"
+},
+{
+    "result": "Double Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Unicorn"
+},
+{
+    "result": "Pegasus",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Unicorn"
+},
+{
+    "result": "Stone",
+    "emoji": "\ud83e\udea8",
+    "isNew": false,
+    "first": "Earth",
+    "second": "Lava"
+},
+{
+    "result": "Nothing",
+    "emoji": "",
+    "isNew": false,
+    "first": "Steampunk Unicorn",
+    "second": "Double Rainbow"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Bog",
+    "second": "Volcano"
+},
+{
+    "result": "Atlantis",
+    "emoji": "\ud83c\udf0a",
+    "isNew": false,
+    "first": "Atlantis",
+    "second": "Rainbow"
+},
+{
+    "result": "Cloud",
+    "emoji": "\u2601\ufe0f",
+    "isNew": false,
+    "first": "Fog",
+    "second": "Rain"
+},
+{
+    "result": "Firebird",
+    "emoji": "\ud83d\udc26",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Phoenix"
+},
+{
+    "result": "Phoenix",
+    "emoji": "\ud83d\udd25",
+    "isNew": false,
+    "first": "Firebird",
+    "second": "Mud"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Eruption"
+},
+{
+    "result": "Piggy Bank",
+    "emoji": "\ud83d\udcb0",
+    "isNew": false,
+    "first": "Bacon",
+    "second": "Pottery"
+},
+{
+    "result": "Pegasus",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Unicorn"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Phoenix",
+    "second": "Cloud"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Dragon",
+    "second": "Eruption"
+},
+{
+    "result": "Dinosaur",
+    "emoji": "\ud83e\udd96",
+    "isNew": false,
+    "first": "Lizard",
+    "second": "Ark"
+},
+{
+    "result": "Pegasus",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Unicorn"
+},
+{
+    "result": "Mountain",
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Volcano"
+},
+{
+    "result": "Bacon",
+    "emoji": "\ud83e\udd53",
+    "isNew": false,
+    "first": "Pig",
+    "second": "Eruption"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Narwhal"
+},
+{
+    "result": "Firebird",
+    "emoji": "\ud83d\udc26",
+    "isNew": false,
+    "first": "Phoenix",
+    "second": "Volcano"
+},
+{
+    "result": "Mirror",
+    "emoji": "\ud83e\ude9e",
+    "isNew": false,
+    "first": "Glass",
+    "second": "Unicorn"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Cloud",
+    "second": "Rain"
+},
+{
+    "result": "Rock",
+    "emoji": "\ud83e\udea8",
+    "isNew": false,
+    "first": "Wave",
+    "second": "Stone"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Marsh",
+    "second": "Phoenix"
+},
+{
+    "result": "Statue",
+    "emoji": "\ud83d\uddfd",
+    "isNew": false,
+    "first": "Nothing",
+    "second": "Stone"
+},
+{
+    "result": "Mountain",
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Volcano"
+},
+{
+    "result": "Firebird",
+    "emoji": "\ud83d\udc26",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Phoenix"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Bog"
+},
+{
+    "result": "Devil",
+    "emoji": "\ud83d\ude08",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Angel"
+},
+{
+    "result": "Glass",
+    "emoji": "\ud83e\udd43",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Obsidian"
+},
+{
+    "result": "Poseidon",
+    "emoji": "\ud83c\udf0a",
+    "isNew": false,
+    "first": "Atlantis",
+    "second": "Golem"
+},
+{
+    "result": "Ark",
+    "emoji": "\ud83d\udc18",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Noah"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Mountain",
+    "second": "Eruption"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Unicorn"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Flood",
+    "second": "Volcano"
+},
+{
+    "result": "Yeti",
+    "emoji": "\ud83e\uddca",
+    "isNew": false,
+    "first": "Avalanche",
+    "second": "Dragon"
+},
+{
+    "result": "Tsunami",
+    "emoji": "\ud83c\udf0a",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Flood"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Steam"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Lava"
+},
+{
+    "result": "Nothing",
+    "emoji": "",
+    "isNew": false,
+    "first": "Nothing",
+    "second": "Unicorn"
+},
+{
+    "result": "Pegasus",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Unicorn",
+    "second": "Volcano"
+},
+{
+    "result": "Statue",
+    "emoji": "\ud83d\uddfd",
+    "isNew": false,
+    "first": "Pig",
+    "second": "Stone"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Fog",
+    "second": "Mud"
+},
+{
+    "result": "Dragon",
+    "emoji": "\ud83d\udc09",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Gargoyle"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Lava"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Dinosaur"
+},
+{
+    "result": "Double Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Unicorn"
+},
+{
+    "result": "Mud",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Swamp"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Avalanche",
+    "second": "Lava"
+},
+{
+    "result": "Phoenix",
+    "emoji": "\ud83d\udd25",
+    "isNew": false,
+    "first": "Pegasus",
+    "second": "Volcano"
+},
+{
+    "result": "Mountain",
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Volcano"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Earthquake",
+    "second": "Lava"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Volcano"
+},
+{
+    "result": "Gargoyle",
+    "emoji": "\ud83d\udc09",
+    "isNew": false,
+    "first": "Statue",
+    "second": "Unicorn"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Rainbow"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Mountain"
+},
+{
+    "result": "Fossil",
+    "emoji": "\ud83e\uddb4",
+    "isNew": false,
+    "first": "Dinosaur",
+    "second": "Rain"
+},
+{
+    "result": "Baconator",
+    "emoji": "\ud83c\udf54",
+    "isNew": false,
+    "first": "Bacon",
+    "second": "Volcano"
+},
+{
+    "result": "Bacon",
+    "emoji": "\ud83e\udd53",
+    "isNew": false,
+    "first": "Pig",
+    "second": "Rainbow"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Swamp"
+},
+{
+    "result": "Mud",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Rain"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Lava"
+},
+{
+    "result": "Lotus",
+    "emoji": "\ud83c\udf3a",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Nothing"
+},
+{
+    "result": "Nothing",
+    "emoji": "",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Dragon"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Eruption"
+},
+{
+    "result": "Rockicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Unicorn",
+    "second": "Rock"
+},
+{
+    "result": "Clay",
+    "emoji": "\ud83c\udffa",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Rain"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Loch Ness Monster",
+    "second": "Lava"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Thunder"
+},
+{
+    "result": "Phoenix",
+    "emoji": "\ud83d\udd25",
+    "isNew": false,
+    "first": "Pegasus",
+    "second": "Volcano"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Volcano"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Volcano"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Rainbow"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Volcano"
+},
+{
+    "result": "Prism",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Glass",
+    "second": "Rainbow"
+},
+{
+    "result": "Marsh",
+    "emoji": "\ud83c\udf3f",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Lake"
+},
+{
+    "result": "Phoenix",
+    "emoji": "\ud83d\udd25",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Firebird"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Volcano"
+},
+{
+    "result": "Clay",
+    "emoji": "\ud83c\udffa",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Mud"
+},
+{
+    "result": "Phoenix",
+    "emoji": "\ud83d\udd25",
+    "isNew": false,
+    "first": "Pegasus",
+    "second": "Lava"
+},
+{
+    "result": "Mud",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Rain"
+},
+{
+    "result": "Pegasus",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Unicorn",
+    "second": "Volcano"
+},
+{
+    "result": "Pig",
+    "emoji": "\ud83d\udc37",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Mud"
+},
+{
+    "result": "Gargoyle",
+    "emoji": "\ud83d\udc09",
+    "isNew": false,
+    "first": "Unicorn",
+    "second": "Stone"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Cloud",
+    "second": "Tsunami"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Volcano"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Nothing",
+    "second": "Volcano"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Bacon"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Marsh",
+    "second": "Rainbow"
+},
+{
+    "result": "Mud",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Volcano"
+},
+{
+    "result": "Statue",
+    "emoji": "\ud83d\uddfd",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Stone"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Tsunami"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Rain"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Rain"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Pegasus",
+    "second": "Mirror"
+},
+{
+    "result": "Narwhal",
+    "emoji": "\ud83d\udc33",
+    "isNew": false,
+    "first": "Tsunami",
+    "second": "Unicorn"
+},
+{
+    "result": "Hawaii",
+    "emoji": "\ud83c\udf3a",
+    "isNew": false,
+    "first": "Island",
+    "second": "Volcano"
+},
+{
+    "result": "Phoenix",
+    "emoji": "\ud83d\udd25",
+    "isNew": false,
+    "first": "Cloud",
+    "second": "Firebird"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Tea",
+    "second": "Eruption"
+},
+{
+    "result": "Ark",
+    "emoji": "\ud83d\udc18",
+    "isNew": false,
+    "first": "Noah",
+    "second": "Swamp"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Snow"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Marsh",
+    "second": "Rainbow"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Eruption"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Flower",
+    "second": "Eruption"
+},
+{
+    "result": "Steampunk Dinosaur",
+    "emoji": "\ud83e\udd96",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Steampunk Dinosaur"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Mountain"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Pegasus"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Volcano"
+},
+{
+    "result": "Quagmire",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Tsunami",
+    "second": "Quagmire"
+},
+{
+    "result": "Brick",
+    "emoji": "\ud83e\uddf1",
+    "isNew": false,
+    "first": "Clay",
+    "second": "Clay"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Eruption"
+},
+{
+    "result": "Clay",
+    "emoji": "\ud83c\udffa",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Atlantis"
+},
+{
+    "result": "Atlantis",
+    "emoji": "\ud83c\udf0a",
+    "isNew": false,
+    "first": "Atlantis",
+    "second": "Volcano"
+},
+{
+    "result": "Pottery",
+    "emoji": "\ud83c\udffa",
+    "isNew": false,
+    "first": "Clay",
+    "second": "Obsidian"
+},
+{
+    "result": "Pig",
+    "emoji": "\ud83d\udc37",
+    "isNew": false,
+    "first": "Bacon",
+    "second": "Geyser"
+},
+{
+    "result": "Bog",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Quagmire"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Unicorn"
+},
+{
+    "result": "Golem",
+    "emoji": "\ud83c\udfdb\ufe0f",
+    "isNew": false,
+    "first": "Unicorn",
+    "second": "Clay"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Cloud",
+    "second": "Baconcorn"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Narwhal"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Rainbow"
+},
+{
+    "result": "Dinosaur",
+    "emoji": "\ud83e\udd96",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Brontosaurus"
+},
+{
+    "result": "Piggy Bank",
+    "emoji": "\ud83d\udcb0",
+    "isNew": false,
+    "first": "Pottery",
+    "second": "Pig"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Rainbow"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Volcano"
+},
+{
+    "result": "Phoenix",
+    "emoji": "\ud83d\udd25",
+    "isNew": false,
+    "first": "Atlantis",
+    "second": "Firebird"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Mountain",
+    "second": "Volcano"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Brick",
+    "second": "Eruption"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Eruption"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Swamp"
+},
+{
+    "result": "Yeti",
+    "emoji": "\ud83e\uddca",
+    "isNew": false,
+    "first": "Steampunk Pirate",
+    "second": "Mountain"
+},
+{
+    "result": "Pork",
+    "emoji": "\ud83d\udc37",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Pig"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Lava"
+},
+{
+    "result": "Pegasus",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Unicorn",
+    "second": "Volcano"
+},
+{
+    "result": "Statue",
+    "emoji": "\ud83d\uddfd",
+    "isNew": false,
+    "first": "Stone",
+    "second": "Pigasus"
+},
+{
+    "result": "Riddle",
+    "emoji": "\ud83e\udde9",
+    "isNew": false,
+    "first": "Sphinx",
+    "second": "Ghost"
+},
+{
+    "result": "Mud",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Swamp"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Dragon"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Mudslide",
+    "second": "Volcano"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Nothing",
+    "second": "Rainbow"
+},
+{
+    "result": "Liberty",
+    "emoji": "\ud83d\uddfd",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Statue of Liberty"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Fog",
+    "second": "Volcano"
+},
+{
+    "result": "Baconator",
+    "emoji": "\ud83c\udf54",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Bacon"
+},
+{
+    "result": "Pig",
+    "emoji": "\ud83d\udc37",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Mud"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Golem",
+    "second": "Eruption"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Unicorn",
+    "second": "Rain"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Mud"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Swamp"
+},
+{
+    "result": "Mud",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Volcano"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Double Rainbow",
+    "second": "Volcano"
+},
+{
+    "result": "Double Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Unicorn"
+},
+{
+    "result": "Atlantis",
+    "emoji": "\ud83c\udf0a",
+    "isNew": false,
+    "first": "Pegasus",
+    "second": "Island"
+},
+{
+    "result": "Mountain",
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Volcano"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Dinosaur",
+    "second": "Double Rainbow"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Golem"
+},
+{
+    "result": "Dinosaur",
+    "emoji": "\ud83e\udd96",
+    "isNew": false,
+    "first": "Lizard",
+    "second": "Mud"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Beach",
+    "second": "Eruption"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Mountain"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Eruption"
+},
+{
+    "result": "Ceramic",
+    "emoji": "\ud83c\udffa",
+    "isNew": false,
+    "first": "Clay",
+    "second": "Volcano"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Lava"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Narwhal",
+    "second": "Clay"
+},
+{
+    "result": "Mountain",
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Volcano"
+},
+{
+    "result": "Phoenix",
+    "emoji": "\ud83d\udd25",
+    "isNew": false,
+    "first": "Pegasus",
+    "second": "Volcano"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Marsh",
+    "second": "Volcano"
+},
+{
+    "result": "Fog",
+    "emoji": "\ud83c\udf2b\ufe0f",
+    "isNew": false,
+    "first": "Mist",
+    "second": "Rain"
+},
+{
+    "result": "Ozymandias",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Smoke",
+    "second": "Statue"
+},
+{
+    "result": "Ceramic",
+    "emoji": "\ud83c\udffa",
+    "isNew": false,
+    "first": "Clay",
+    "second": "Volcano"
+},
+{
+    "result": "Mud",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Rain"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Volcano"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Volcano"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Volcano"
+},
+{
+    "result": "Fountain",
+    "emoji": "\u26f2",
+    "isNew": false,
+    "first": "Statue",
+    "second": "Rain"
+},
+{
+    "result": "Marsh",
+    "emoji": "\ud83c\udf3f",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Swamp"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Swamp"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Unicorn",
+    "second": "Lava"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Quagmire"
+},
+{
+    "result": "Fog",
+    "emoji": "\ud83c\udf2b\ufe0f",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Cloud"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Pegasus",
+    "second": "Mud"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Volcano"
+},
+{
+    "result": "Obelisk",
+    "emoji": "\ud83d\udcd1",
+    "isNew": false,
+    "first": "Stone",
+    "second": "Hippopotamus"
+},
+{
+    "result": "Mountain",
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Volcano"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Dinosaur",
+    "second": "Volcano"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Dragon",
+    "second": "Lava"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Marsh",
+    "second": "Volcano"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Rainbow"
+},
+{
+    "result": "Mud",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Eruption"
+},
+{
+    "result": "Sphinx",
+    "emoji": "\ud83d\udc2b",
+    "isNew": false,
+    "first": "Quagmire",
+    "second": "Statue"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Dinosaur"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Unicorn",
+    "second": "Lava"
+},
+{
+    "result": "Pig",
+    "emoji": "\ud83d\udc37",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Rainbow"
+},
+{
+    "result": "Mountain",
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Volcano"
+},
+{
+    "result": "Rose",
+    "emoji": "\ud83c\udf39",
+    "isNew": false,
+    "first": "Flower",
+    "second": "Mountain"
+},
+{
+    "result": "Snowman",
+    "emoji": "\u2603\ufe0f",
+    "isNew": false,
+    "first": "Marsh",
+    "second": "Avalanche"
+},
+{
+    "result": "Baconator",
+    "emoji": "\ud83c\udf54",
+    "isNew": false,
+    "first": "Statue of Liberty",
+    "second": "Pig"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Eruption"
+},
+{
+    "result": "Dragon",
+    "emoji": "\ud83d\udc09",
+    "isNew": false,
+    "first": "Gargoyle",
+    "second": "Lava"
+},
+{
+    "result": "Statue",
+    "emoji": "\ud83d\uddfd",
+    "isNew": false,
+    "first": "Liberty",
+    "second": "Eruption"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Rainbow"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Rainbow"
+},
+{
+    "result": "Pig",
+    "emoji": "\ud83d\udc37",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Mud"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Volcano"
+},
+{
+    "result": "Phoenix",
+    "emoji": "\ud83d\udd25",
+    "isNew": false,
+    "first": "Atlantis",
+    "second": "Ash"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Volcano"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Statue",
+    "second": "Eruption"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Volcano"
+},
+{
+    "result": "Phoenix",
+    "emoji": "\ud83d\udd25",
+    "isNew": false,
+    "first": "Firebird",
+    "second": "Fire"
+},
+{
+    "result": "Mud",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Rain"
+},
+{
+    "result": "Vase",
+    "emoji": "\ud83c\udffa",
+    "isNew": false,
+    "first": "Marsh",
+    "second": "Pottery"
+},
+{
+    "result": "Leprechaun",
+    "emoji": "\ud83c\udf40",
+    "isNew": false,
+    "first": "Pot of Gold",
+    "second": "Volcano"
+},
+{
+    "result": "Statue",
+    "emoji": "\ud83d\uddfd",
+    "isNew": false,
+    "first": "Liberty",
+    "second": "Ark"
+},
+{
+    "result": "Leprechaun",
+    "emoji": "\ud83c\udf40",
+    "isNew": false,
+    "first": "Pot of Gold",
+    "second": "Rainbow"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Bog",
+    "second": "Unicorn"
+},
+{
+    "result": "Piggy",
+    "emoji": "\ud83d\udc37",
+    "isNew": false,
+    "first": "Nothing",
+    "second": "Piggyback"
+},
+{
+    "result": "Fire",
+    "emoji": "\ud83d\udd25",
+    "isNew": false,
+    "first": "Poseidon",
+    "second": "Phoenix"
+},
+{
+    "result": "Bacon",
+    "emoji": "\ud83e\udd53",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Pig"
+},
+{
+    "result": "Ammonite",
+    "emoji": "\ud83e\udd95",
+    "isNew": false,
+    "first": "Fossil",
+    "second": "Atlantis"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Stone"
+},
+{
+    "result": "Steampunk Pirate",
+    "emoji": "\ud83c\udff4\u200d\u2620\ufe0f",
+    "isNew": false,
+    "first": "Steampunk Pirate",
+    "second": "Nothing"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Eruption",
+    "second": "Clay"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Eruption"
+},
+{
+    "result": "Firebird",
+    "emoji": "\ud83d\udc26",
+    "isNew": false,
+    "first": "Phoenix",
+    "second": "Eruption"
+},
+{
+    "result": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Lava",
+    "second": "Volcano"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Nothing",
+    "second": "Pegasus"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Volcano"
+},
+{
+    "result": "Loch Ness",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Island"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Mountain Range",
+    "second": "Swamp"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Rainbow Pirate",
+    "second": "Volcano"
+},
+{
+    "result": "Pegasus",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Unicorn",
+    "second": "Volcano"
+},
+{
+    "result": "Nothing",
+    "emoji": "",
+    "isNew": false,
+    "first": "Nothing",
+    "second": "Nothing"
+},
+{
+    "result": "Pegasus",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Unicorn"
+},
+{
+    "result": "Mountain",
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Volcano"
+},
+{
+    "result": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "isNew": false,
+    "first": "Phoenix",
+    "second": "Cloud"
+},
+{
+    "result": "Phoenix",
+    "emoji": "\ud83d\udd25",
+    "isNew": false,
+    "first": "Unicorn",
+    "second": "Firebird"
+},
+{
+    "result": "Mud",
+    "emoji": "\ud83d\udca9",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Volcano"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Flood"
+},
+{
+    "result": "Ice Cream",
+    "emoji": "\ud83c\udf66",
+    "isNew": false,
+    "first": "Ice",
+    "second": "Volcano"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Lava"
+},
+{
+    "result": "Baconator",
+    "emoji": "\ud83c\udf54",
+    "isNew": false,
+    "first": "Bacon",
+    "second": "Volcano"
+},
+{
+    "result": "Stonehenge",
+    "emoji": "\ud83d\uddff",
+    "isNew": false,
+    "first": "Obelisk",
+    "second": "Volcano"
+},
+{
+    "result": "Pyramid",
+    "emoji": "\ud83d\uddff",
+    "isNew": false,
+    "first": "Obelisk",
+    "second": "Marsh"
+},
+{
+    "result": "Clay",
+    "emoji": "\ud83c\udffa",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Mud"
+},
+{
+    "result": "Window",
+    "emoji": "\ud83e\ude9f",
+    "isNew": false,
+    "first": "Plant",
+    "second": "Glass"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Marsh",
+    "second": "Tsunami"
+},
+{
+    "result": "Obsidian",
+    "emoji": "\ud83d\udd2a",
+    "isNew": false,
+    "first": "Stone",
+    "second": "Lava"
+},
+{
+    "result": "Luau",
+    "emoji": "\ud83c\udf34",
+    "isNew": false,
+    "first": "Leprechaun",
+    "second": "Hawaii"
+},
+{
+    "result": "Waterfall",
+    "emoji": "\ud83c\udf0a",
+    "isNew": false,
+    "first": "Rain",
+    "second": "Mountain"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Rainbow",
+    "second": "Volcano"
+},
+{
+    "result": "Clay",
+    "emoji": "\ud83c\udffa",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Mud"
+},
+{
+    "result": "Mountain",
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Volcano"
+},
+{
+    "result": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Mountain",
+    "second": "Lava"
+},
+{
+    "result": "Lilo",
+    "emoji": "\ud83c\udf3a",
+    "isNew": false,
+    "first": "Hawaii",
+    "second": "Dinosaur"
+},
+{
+    "result": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "isNew": false,
+    "first": "Mud",
+    "second": "Island"
+},
+{
+    "result": "Atlantis",
+    "emoji": "\ud83c\udf0a",
+    "isNew": false,
+    "first": "Poseidon",
+    "second": "Eruption"
+},
+{
+    "result": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "isNew": false,
+    "first": "Swamp",
+    "second": "Volcano"
+},
+{
+    "result": "Mountain",
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "isNew": false,
+    "first": "Volcano",
+    "second": "Volcano"
+},
+{
+    "result": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "isNew": false,
+    "first": "Pegasus",
+    "second": "Swamp"
+},
+{
+    "result": "Golem",
+    "emoji": "\ud83c\udfdb\ufe0f",
+    "isNew": false,
+    "first": "Clay",
+    "second": "Dinosaur"
+}
+]
